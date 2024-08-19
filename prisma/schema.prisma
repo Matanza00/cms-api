@@ -1,0 +1,233 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  // provider = "sqlserver"
+  url      = env("DATABASE_URL")
+}
+
+model Company {
+  id                 Int                 @id @default(autoincrement())
+  email              String              @unique
+  name               String
+  address            String?
+  logo               String?
+  noOfUsers          Int?
+  subscriptionPlanId Int?
+  isActive           Boolean             @default(true)
+  created_at         DateTime            @default(now())
+  updated_at         DateTime            @updatedAt
+  deleted_at         DateTime?
+  Role               Role[]
+  manager            Manager[]
+  clinic             Clinic[]
+  employees          Employee[]
+  ManagerAssignment  ManagerAssignment[]
+  FileAssignment     FileAssignment[]
+  cms_Users          cms_Users[]
+  Provider           Provider[]
+}
+
+model cms_Users {
+  id                  Int              @id @default(autoincrement())
+  employeeId          String?
+  username            String?
+  email               String?
+  password            String?
+  passwordToken       String?          @unique()
+  isActive            Boolean          @default(true) // Ensure this field exists
+  isCompanyAdmin      Boolean          @default(false) // Ensure this field exists
+  passwordTokenExpire Int?
+  encryptedPassword   String?
+  keyHex              String?
+  ivHex               String?
+  companyId           Int
+  company             Company          @relation(fields: [companyId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  Role                Role?            @relation(fields: [roleId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  roleId              Int?
+  Clinic              Clinic[]
+  clinicId            Int?
+  Provider            Provider[]
+  providerId          Int?
+  created_at          DateTime         @default(now())
+  updated_at          DateTime         @updatedAt
+  deleted_at          DateTime?
+  File                File[]
+  FileAssignment      FileAssignment[]
+}
+
+model Role {
+  id               Int                    @id @default(autoincrement())
+  roleName         String
+  fieldPermissions FieldPermission[]
+  cms_Users        cms_Users[]
+  companyId        Int
+  company          Company                @relation(fields: [companyId], references: [id])
+  rolePermissions  RoleModulePermission[]
+  created_at       DateTime               @default(now())
+  updated_at       DateTime               @updatedAt
+  deleted_at       DateTime?
+}
+
+model Module {
+  id              Int                    @id @default(autoincrement())
+  name            String                 @unique
+  tableName       String                 @unique
+  description     String?
+  rolePermissions RoleModulePermission[]
+  created_at      DateTime               @default(now())
+  updated_at      DateTime               @updatedAt
+  deleted_at      DateTime?
+}
+
+model RoleModulePermission {
+  id         Int       @id @default(autoincrement())
+  roleId     Int
+  role       Role      @relation(fields: [roleId], references: [id])
+  moduleId   Int
+  module     Module    @relation(fields: [moduleId], references: [id])
+  list       Boolean   @default(false)
+  write      Boolean   @default(false)
+  delete     Boolean   @default(false)
+  update     Boolean   @default(false)
+  read       Boolean   @default(false)
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+  deleted_at DateTime?
+}
+
+model Manager {
+  id                Int                 @id @default(autoincrement())
+  employeeId        String              @unique()
+  name              String
+  joiningDate       DateTime?
+  companyId         Int
+  cnic              String?
+  isActive          Boolean?
+  company           Company             @relation(fields: [companyId], references: [id])
+  created_at        DateTime            @default(now())
+  updated_at        DateTime            @updatedAt
+  deleted_at        DateTime?
+  ManagerAssignment ManagerAssignment[]
+}
+
+model ManagerAssignment {
+  id         Int       @id @default(autoincrement())
+  clinicId   String
+  managerId  String
+  companyId  Int
+  manager    Manager[]
+  clinic     Clinic[]
+  company    Company   @relation(fields: [companyId], references: [id])
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+  deleted_at DateTime?
+}
+
+model Clinic {
+  id                Int                 @id @default(autoincrement())
+  clinicId          Int                 @unique()
+  companyId         Int
+  Address           String?
+  City              String?
+  State             String?
+  ZipCode           Int?
+  Country           String?
+  Phone             String?
+  Cell              String?
+  faxNo             String?
+  email             String?
+  url               String?
+  contactname       String?
+  contactcell       String?
+  contactaddr       String?
+  contactemail      String?
+  contactpager      String?
+  cms_UsersId       Int?
+  cms_Users         cms_Users?          @relation(fields: [cms_UsersId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  company           Company             @relation(fields: [companyId], references: [id])
+  created_at        DateTime            @default(now())
+  updated_at        DateTime            @updatedAt
+  deleted_at        DateTime?
+  ManagerAssignment ManagerAssignment[]
+  FileAssignment    FileAssignment[]
+}
+
+model Provider {
+  id             Int        @id @default(autoincrement())
+  prefix         String?
+  firstname      String?
+  middlename     String?
+  lastname       String?
+  speciality     String?
+  secretary      String?
+  isFax          Boolean?
+  AddSign        Boolean?
+  cpl            Int?
+  rpl            Int?
+  contactname    String?
+  contactphone   String?
+  contactcell    String?
+  contactaddress String?
+  contactemail   String?
+  contactpager   String?
+  cms_UsersId    Int?
+  cms_Users      cms_Users? @relation(fields: [cms_UsersId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  companyId      Int
+  company        Company    @relation(fields: [companyId], references: [id])
+  created_at     DateTime   @default(now())
+  updated_at     DateTime   @updatedAt
+  deleted_at     DateTime?
+}
+
+model File {
+  id             Int              @id @default(autoincrement())
+  fileName       String?
+  fileUrl        String?
+  fileDuration   DateTime
+  cms_UsersId    Int?
+  cms_Users      cms_Users?       @relation(fields: [cms_UsersId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  FileAssignment FileAssignment[]
+  created_at     DateTime         @default(now())
+  updated_at     DateTime         @updatedAt
+  deleted_at     DateTime?
+}
+
+model FileAssignment {
+  id          Int        @id @default(autoincrement())
+  clinicId    String
+  companyId   Int
+  cms_UsersId Int?
+  fileId      Int
+  file        File       @relation(fields: [fileId], references: [id])
+  clinic      Clinic[]
+  company     Company    @relation(fields: [companyId], references: [id])
+  cms_Users   cms_Users? @relation(fields: [cms_UsersId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  created_at  DateTime   @default(now())
+  updated_at  DateTime   @updatedAt
+  deleted_at  DateTime?
+}
+
+model FieldPermission {
+  id         Int       @id @default(autoincrement())
+  fieldName  String
+  roleId     Int
+  Role       Role      @relation(fields: [roleId], references: [id])
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+  deleted_at DateTime?
+}
+
+model Employee {
+  id         Int       @id @default(autoincrement())
+  name       String
+  position   String
+  salary     Int
+  companyId  Int
+  Company    Company   @relation(fields: [companyId], references: [id])
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+  deleted_at DateTime?
+}

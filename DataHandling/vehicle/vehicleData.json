@@ -1,0 +1,2688 @@
+[
+  {
+    "registrationNo": "CAH-4897",
+    "station": "MUL",
+    "make": "FAW",
+    "chasisNo": "CH-0882",
+    "oddometerReading": 133619
+  },
+  {
+    "registrationNo": "MNS-17-900",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 339945
+  },
+  {
+    "registrationNo": "MNS-17-913",
+    "station": "MUL",
+    "make": "ISUZU NHR",
+    "oddometerReading": 185886
+  },
+  {
+    "registrationNo": "MNS-18-9047",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 443504
+  },
+  {
+    "registrationNo": "MNS-19-9027",
+    "station": "MUL",
+    "make": "Suzuki",
+    "oddometerReading": 186223
+  },
+  {
+    "registrationNo": "MNS-19-9042",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 410488
+  },
+  {
+    "registrationNo": "MNS-19-913",
+    "station": "MUL",
+    "make": "ISUZU D Max",
+    "oddometerReading": 187245
+  },
+  {
+    "registrationNo": "MNS-19-916",
+    "station": "MUL",
+    "make": "ISUZU NKR",
+    "oddometerReading": 252205
+  },
+  {
+    "registrationNo": "MNS-17-923",
+    "station": "MUL",
+    "make": "ISUZU NKR",
+    "oddometerReading": 257831
+  },
+  {
+    "registrationNo": "CAE-5489",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 527179
+  },
+  {
+    "registrationNo": "CAF-3562",
+    "station": "MUL",
+    "make": "KYC",
+    "chasisNo": " CH-0736",
+    "oddometerReading": 91158
+  },
+  {
+    "registrationNo": "MNS-18-9007",
+    "station": "MUL",
+    "make": "Shahzore",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAJ-6014",
+    "station": "MUL",
+    "make": "Forland",
+    "chasisNo": "CH-4012",
+    "oddometerReading": 81095
+  },
+  {
+    "registrationNo": "BF-9583",
+    "station": "MUL",
+    "make": "Land Cruiser",
+    "oddometerReading": 18639
+  },
+  {
+    "registrationNo": "MNS-18-963",
+    "station": "MUL",
+    "make": "ISUZU NKR",
+    "oddometerReading": 225816
+  },
+  {
+    "registrationNo": "CAG-7225",
+    "station": "MUL",
+    "make": "Toyota",
+    "chasisNo": "CH-1522",
+    "oddometerReading": 274178
+  },
+  {
+    "registrationNo": "CAG-7243",
+    "station": "MUL",
+    "make": "Toyota",
+    "chasisNo": "CH-1515",
+    "oddometerReading": 282222
+  },
+  {
+    "registrationNo": "MNS-19-923",
+    "station": "MUL",
+    "make": "ISUZU D Max",
+    "oddometerReading": 281786
+  },
+  {
+    "registrationNo": "MNS-18-996",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 244177
+  },
+  {
+    "registrationNo": "MNS-18-961",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 342197
+  },
+  {
+    "registrationNo": "MNS-20-9023",
+    "station": "MUL",
+    "make": "Toyota",
+    "oddometerReading": 218123
+  },
+  {
+    "registrationNo": "CAD-092",
+    "station": "MUL",
+    "make": "Jac X200",
+    "chasisNo": "CH-1269",
+    "oddometerReading": 13887
+  },
+  {
+    "registrationNo": "CH-1329",
+    "station": "MUL",
+    "make": "Jac X200",
+    "oddometerReading": 13272
+  },
+  {
+    "registrationNo": "CAP-3103",
+    "station": "Layyah",
+    "make": "Changan",
+    "chasisNo": "CH-1753 ",
+    "oddometerReading": 51705
+  },
+  {
+    "registrationNo": "CAA-4427",
+    "station": "Layyah",
+    "make": "JAC X200",
+    "oddometerReading": 195291
+  },
+  {
+    "registrationNo": "CAD-5208",
+    "station": "Khanewal",
+    "make": "Hyundai H100",
+    "oddometerReading": 179162
+  },
+  {
+    "registrationNo": "MNS-17-920",
+    "station": "Muzaffarghar",
+    "make": "Toyota",
+    "oddometerReading": 417960
+  },
+  {
+    "registrationNo": "CAF-3564",
+    "station": "LHR",
+    "make": "KYC",
+    "oddometerReading": 105155
+  },
+  {
+    "registrationNo": "CAA-3745",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 180504
+  },
+  {
+    "registrationNo": "MNS-17-901",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 204056
+  },
+  {
+    "registrationNo": "MNS-17-902",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 168613
+  },
+  {
+    "registrationNo": "MNS-17-910",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 199490
+  },
+  {
+    "registrationNo": "MNS-17-914",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 227270
+  },
+  {
+    "registrationNo": "MNS-17-918",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 266006
+  },
+  {
+    "registrationNo": "MNS-18-9003",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 214352
+  },
+  {
+    "registrationNo": "MNS-18-9009",
+    "station": "LHR",
+    "make": "Suzuki",
+    "oddometerReading": 147857
+  },
+  {
+    "registrationNo": "MNS-18-9037",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 237320
+  },
+  {
+    "registrationNo": "MNS-18-9040",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 204684
+  },
+  {
+    "registrationNo": "MNS-18-9050",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 241797
+  },
+  {
+    "registrationNo": "MNS-18-950",
+    "station": "LHR",
+    "make": "JAC 1020",
+    "oddometerReading": 197097
+  },
+  {
+    "registrationNo": "MNS-18-955",
+    "station": "LHR",
+    "make": "JAC 1020",
+    "oddometerReading": 162989
+  },
+  {
+    "registrationNo": "MNS-18-966",
+    "station": "LHR",
+    "make": "ISUZU NKR",
+    "oddometerReading": 191104
+  },
+  {
+    "registrationNo": "MNS-19-900",
+    "station": "LHR",
+    "make": "ISUZU D Max",
+    "oddometerReading": 171953
+  },
+  {
+    "registrationNo": "MNS-19-9003",
+    "station": "LHR",
+    "make": "ISUZU D Max",
+    "oddometerReading": 180713
+  },
+  {
+    "registrationNo": "MNS-19-9009",
+    "station": "LHR",
+    "make": "ISUZU D Max",
+    "oddometerReading": 159491
+  },
+  {
+    "registrationNo": "MNS-19-9049",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 223994
+  },
+  {
+    "registrationNo": "MNS-19-9050",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 194372
+  },
+  {
+    "registrationNo": "MNS-20-9010",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 152716
+  },
+  {
+    "registrationNo": "MNS-20-9013",
+    "station": "LHR",
+    "make": "Hyundai H100",
+    "oddometerReading": 157051
+  },
+  {
+    "registrationNo": "MNS-20-9015",
+    "station": "LHR",
+    "make": "Hyundai H100",
+    "oddometerReading": 106878
+  },
+  {
+    "registrationNo": "MNS-20-9020",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 235780
+  },
+  {
+    "registrationNo": "CAA-4451",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 146815
+  },
+  {
+    "registrationNo": "CAA-4392",
+    "station": "LHR",
+    "make": "JAC X200",
+    "oddometerReading": 90318
+  },
+  {
+    "registrationNo": "CAA-4395",
+    "station": "LHR",
+    "make": "JAC X200",
+    "oddometerReading": 111331
+  },
+  {
+    "registrationNo": "CAC-5071",
+    "station": "LHR",
+    "make": "JAC X200",
+    "oddometerReading": 91422
+  },
+  {
+    "registrationNo": "MNS-18-932",
+    "station": "LHR",
+    "make": "JAC 1020",
+    "oddometerReading": 212489
+  },
+  {
+    "registrationNo": "CAD-6019",
+    "station": "LHR",
+    "make": "JAC X200",
+    "oddometerReading": 88305
+  },
+  {
+    "registrationNo": "CAH-4901",
+    "station": "LHR",
+    "make": "FAW",
+    "chasisNo": "CH-0909",
+    "oddometerReading": 104883
+  },
+  {
+    "registrationNo": "CAF-6784",
+    "station": "LHR",
+    "make": "Toyota",
+    "oddometerReading": 133818
+  },
+  {
+    "registrationNo": "MNS-19-9017",
+    "station": "LHR",
+    "make": "ISUZU D Max",
+    "oddometerReading": 167593
+  },
+  {
+    "registrationNo": "CAG-7236",
+    "station": "LHR",
+    "make": "Toyota",
+    "chasisNo": "CH-1511",
+    "oddometerReading": 167750
+  },
+  {
+    "registrationNo": "CAJ-8046",
+    "station": "LHR",
+    "make": "Toyota",
+    "chasisNo": "CH-1521",
+    "oddometerReading": 136813
+  },
+  {
+    "registrationNo": "CAJ-8055",
+    "station": "LHR",
+    "make": "Toyota",
+    "chasisNo": "CH-1526",
+    "oddometerReading": 128108
+  },
+  {
+    "registrationNo": "CAN-1852",
+    "station": "LHR",
+    "make": "Changan",
+    "chasisNo": "CH-1560",
+    "oddometerReading": 46381
+  },
+  {
+    "registrationNo": "CAL-8450 ",
+    "station": "LHR",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0776)",
+    "oddometerReading": 38140
+  },
+  {
+    "registrationNo": "MNS-18-9031",
+    "station": "LHR",
+    "make": "Suzuki",
+    "oddometerReading": 215840
+  },
+  {
+    "registrationNo": "CAP-507",
+    "station": "LHR",
+    "make": "Changan",
+    "chasisNo": "CH-1662",
+    "oddometerReading": 34804
+  },
+  {
+    "registrationNo": "CAP-494",
+    "station": "LHR",
+    "make": "JAC X200",
+    "chasisNo": "CH-9067",
+    "oddometerReading": 37777
+  },
+  {
+    "registrationNo": "CAP-3089",
+    "station": "LHR",
+    "make": "Changan",
+    "chasisNo": "CH-1745",
+    "oddometerReading": 23375
+  },
+  {
+    "registrationNo": "CAP-3101",
+    "station": "LHR",
+    "make": "Changan",
+    "chasisNo": "CH-1750",
+    "oddometerReading": 18890
+  },
+  {
+    "registrationNo": "CAP-3099",
+    "station": "LHR",
+    "make": "Changan",
+    "chasisNo": "CH-1759",
+    "oddometerReading": 19000
+  },
+  {
+    "registrationNo": "LD-1460",
+    "station": "LHR",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5072",
+    "oddometerReading": 25871
+  },
+  {
+    "registrationNo": "CAD-382",
+    "station": "LHR",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5568",
+    "oddometerReading": 4457
+  },
+  {
+    "registrationNo": "LD-2370",
+    "station": "LHR",
+    "make": "JAC X200",
+    "chasisNo": "CH-1267",
+    "oddometerReading": 4385
+  },
+  {
+    "registrationNo": "CAD-984",
+    "station": "LHR",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5736",
+    "oddometerReading": 3399
+  },
+  {
+    "registrationNo": "CH-1337",
+    "station": "LHR",
+    "make": "JAC X200",
+    "oddometerReading": 4685
+  },
+  {
+    "registrationNo": "CH-1452",
+    "station": "LHR",
+    "make": "JAC X200",
+    "oddometerReading": null
+  },
+  {
+    "registrationNo": "CAA - 3748",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 200790
+  },
+  {
+    "registrationNo": "MNS-17-908",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 246499
+  },
+  {
+    "registrationNo": "MNS-17-921",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 179823
+  },
+  {
+    "registrationNo": "MNS-18-9001",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 229075
+  },
+  {
+    "registrationNo": "MNS-18-9002",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 201170
+  },
+  {
+    "registrationNo": "MNS-18-9014",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 175427
+  },
+  {
+    "registrationNo": "MNS-18-9024",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 185756
+  },
+  {
+    "registrationNo": "MNS-18-9026",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 146745
+  },
+  {
+    "registrationNo": "MNS-18-9030",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 145708
+  },
+  {
+    "registrationNo": "MNS-18-9033",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 149101
+  },
+  {
+    "registrationNo": "MNS-18-9042",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 205855
+  },
+  {
+    "registrationNo": "MNS-18-9044",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 195985
+  },
+  {
+    "registrationNo": "MNS-18-9046",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 174815
+  },
+  {
+    "registrationNo": "MNS-18-9052",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 246193
+  },
+  {
+    "registrationNo": "MNS-18-938",
+    "station": "KHI",
+    "make": "JAC 1020",
+    "oddometerReading": 116623
+  },
+  {
+    "registrationNo": "MNS-18-958",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 175465
+  },
+  {
+    "registrationNo": "MNS-19-9005",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 158100
+  },
+  {
+    "registrationNo": "MNS-19-9013",
+    "station": "KHI",
+    "make": "ISUZU D Max",
+    "oddometerReading": 197490
+  },
+  {
+    "registrationNo": "MNS-19-9020",
+    "station": "KHI",
+    "make": "ISUZU D Max",
+    "oddometerReading": "U/S"
+  },
+  {
+    "registrationNo": "MNS-19-9033",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 126041
+  },
+  {
+    "registrationNo": "MNS-19-9034",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 99279
+  },
+  {
+    "registrationNo": "MNS-19-9037",
+    "station": "KHI",
+    "make": "Suzuki",
+    "oddometerReading": 142921
+  },
+  {
+    "registrationNo": "MNS-19-9041",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 205234
+  },
+  {
+    "registrationNo": "MNS-19-9045",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 173515
+  },
+  {
+    "registrationNo": "MNS-20-9004",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 167594
+  },
+  {
+    "registrationNo": "MNS-20-9008",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 214249
+  },
+  {
+    "registrationNo": "MNS-20-9009",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 192942
+  },
+  {
+    "registrationNo": "CAC-3411",
+    "station": "KHI",
+    "make": "KYC",
+    "oddometerReading": 67940
+  },
+  {
+    "registrationNo": "CAC-5069",
+    "station": "KHI",
+    "make": "JAC X200",
+    "oddometerReading": 97596
+  },
+  {
+    "registrationNo": "CAD-5226",
+    "station": "KHI",
+    "make": "Hyundai H100",
+    "oddometerReading": 90271
+  },
+  {
+    "registrationNo": "CAD-6067",
+    "station": "KHI",
+    "make": "JAC X200",
+    "oddometerReading": 81946
+  },
+  {
+    "registrationNo": "CAD-6001",
+    "station": "KHI",
+    "make": "JAC X200",
+    "oddometerReading": 101918
+  },
+  {
+    "registrationNo": "CAF-6788 ",
+    "station": "KHI",
+    "make": "Toyota",
+    "chasisNo": "CH-1196",
+    "oddometerReading": 109605
+  },
+  {
+    "registrationNo": "CAG-1144  ",
+    "station": "KHI",
+    "make": "Toyota",
+    "chasisNo": "CH-1444",
+    "oddometerReading": 201625
+  },
+  {
+    "registrationNo": "CAF-6806 ",
+    "station": "KHI",
+    "make": "Toyota",
+    "chasisNo": "CH-1396",
+    "oddometerReading": 109819
+  },
+  {
+    "registrationNo": "CAD-5221",
+    "station": "KHI",
+    "make": "Hyundai H100",
+    "oddometerReading": 124154
+  },
+  {
+    "registrationNo": "CAA-4406",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 144022
+  },
+  {
+    "registrationNo": "MNS-18-9053",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 321023
+  },
+  {
+    "registrationNo": "CAJ-6024",
+    "station": "KHI",
+    "make": "Forland",
+    "chasisNo": "CH-3984",
+    "oddometerReading": 64105
+  },
+  {
+    "registrationNo": "CAK-9782",
+    "station": "KHI",
+    "make": "JAC X200",
+    "chasisNo": "CH-4089",
+    "oddometerReading": 60258
+  },
+  {
+    "registrationNo": "CAK-9775",
+    "station": "KHI",
+    "make": "JAC X200",
+    "chasisNo": "CH-4097",
+    "oddometerReading": 77241
+  },
+  {
+    "registrationNo": "MNS-18-9025",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 340217
+  },
+  {
+    "registrationNo": "CAP-502",
+    "station": "KHI",
+    "make": "Changan",
+    "chasisNo": "CH-1666",
+    "oddometerReading": 34623
+  },
+  {
+    "registrationNo": "MNS-19-908",
+    "station": "KHI",
+    "make": "Toyota",
+    "oddometerReading": 261941
+  },
+  {
+    "registrationNo": "LD-1458",
+    "station": "KHI",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-4576",
+    "oddometerReading": 27649
+  },
+  {
+    "registrationNo": "LD-1456",
+    "station": "KHI",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-4591",
+    "oddometerReading": 26308
+  },
+  {
+    "registrationNo": "MNS 20-900",
+    "station": "KHI",
+    "make": "KYC",
+    "oddometerReading": 58876
+  },
+  {
+    "registrationNo": "CAD-057",
+    "station": "KHI",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5291",
+    "oddometerReading": 11702
+  },
+  {
+    "registrationNo": "LD-2369",
+    "station": "KHI",
+    "make": "JAC X200",
+    "chasisNo": "CH-1266",
+    "oddometerReading": 4046
+  },
+  {
+    "registrationNo": "CH-1338",
+    "station": "KHI",
+    "make": "JAC X200",
+    "oddometerReading": 3281
+  },
+  {
+    "registrationNo": "CAG-059",
+    "station": "KHI",
+    "make": "Toyota",
+    "chasisNo": "CH-1200",
+    "oddometerReading": 258034
+  },
+  {
+    "registrationNo": "MNS-18-954",
+    "station": "KHI",
+    "make": "JAC 1020",
+    "oddometerReading": 244393
+  },
+  {
+    "registrationNo": "MNS-17-907",
+    "station": "ISL",
+    "make": "Toyota",
+    "oddometerReading": 317445
+  },
+  {
+    "registrationNo": "MNS-18-9006",
+    "station": "ISL",
+    "make": "Shahzore",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-18-9034",
+    "station": "ISL",
+    "make": "Suzuki",
+    "oddometerReading": 166000
+  },
+  {
+    "registrationNo": "MNS-18-946",
+    "station": "ISL",
+    "make": "JAC 1020",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-18-948",
+    "station": "ISL",
+    "make": "JAC 1020",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-20-9002",
+    "station": "ISL",
+    "make": "Toyota",
+    "oddometerReading": 319672
+  },
+  {
+    "registrationNo": "CAC-3405",
+    "station": "ISL",
+    "make": "KYC",
+    "oddometerReading": 107365
+  },
+  {
+    "registrationNo": "CAH-4895",
+    "station": "ISL",
+    "make": "FAW",
+    "chasisNo": "CH-0757",
+    "oddometerReading": 71718
+  },
+  {
+    "registrationNo": "CAG-065",
+    "station": "ISL",
+    "make": "Toyota",
+    "chasisNo": "CH-1251",
+    "oddometerReading": 212300
+  },
+  {
+    "registrationNo": "CAP-491",
+    "station": "ISL",
+    "make": "JAC X200",
+    "chasisNo": "CH-9072",
+    "oddometerReading": 44580
+  },
+  {
+    "registrationNo": "LD-1455",
+    "station": "ISL",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5289",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAD-487",
+    "station": "ISL",
+    "make": "JAC X200",
+    "chasisNo": "CH-1271",
+    "oddometerReading": 6938
+  },
+  {
+    "registrationNo": "CAA-3624",
+    "station": "RWP",
+    "make": "Toyota",
+    "oddometerReading": 282740
+  },
+  {
+    "registrationNo": "MNS-17-916",
+    "station": "RWP",
+    "make": "Toyota",
+    "oddometerReading": 193624
+  },
+  {
+    "registrationNo": "MNS-18-9035",
+    "station": "RWP",
+    "make": "Suzuki",
+    "oddometerReading": 159588
+  },
+  {
+    "registrationNo": "MNS-18-937",
+    "station": "RWP",
+    "make": "JAC 1020",
+    "oddometerReading": 178206
+  },
+  {
+    "registrationNo": "MNS-18-956",
+    "station": "RWP",
+    "make": "JAC 1020",
+    "oddometerReading": 164153
+  },
+  {
+    "registrationNo": "MNS-18-965",
+    "station": "RWP",
+    "make": "ISUZU NKR",
+    "oddometerReading": 174858
+  },
+  {
+    "registrationNo": "MNS-19-9002",
+    "station": "RWP",
+    "make": "ISUZU D Max",
+    "oddometerReading": 140839
+  },
+  {
+    "registrationNo": "MNS-19-9004",
+    "station": "RWP",
+    "make": "Suzuki",
+    "oddometerReading": 88288
+  },
+  {
+    "registrationNo": "MNS-19-9016",
+    "station": "RWP",
+    "make": "ISUZU D Max",
+    "oddometerReading": 145134
+  },
+  {
+    "registrationNo": "MNS-19-9035",
+    "station": "RWP",
+    "make": "Suzuki",
+    "oddometerReading": 147593
+  },
+  {
+    "registrationNo": "MNS-20-9007",
+    "station": "RWP",
+    "make": "Toyota",
+    "oddometerReading": 171790
+  },
+  {
+    "registrationNo": "MNS-20-9017",
+    "station": "RWP",
+    "make": "Toyota",
+    "oddometerReading": 241707
+  },
+  {
+    "registrationNo": "MNS-18-952",
+    "station": "RWP",
+    "make": "JAC 1020",
+    "oddometerReading": 153460
+  },
+  {
+    "registrationNo": "CAC-3419",
+    "station": "RWP",
+    "make": "KYC",
+    "oddometerReading": 93432
+  },
+  {
+    "registrationNo": "CAA - 2833",
+    "station": "RWP",
+    "make": "Toyota",
+    "oddometerReading": 218911
+  },
+  {
+    "registrationNo": "CAG-1138",
+    "station": "RWP",
+    "make": "Toyota",
+    "chasisNo": "CH-1269",
+    "oddometerReading": 278756
+  },
+  {
+    "registrationNo": "CAG-068",
+    "station": "RWP",
+    "make": "Toyota",
+    "chasisNo": "CH-1264",
+    "oddometerReading": 243051
+  },
+  {
+    "registrationNo": "CAA-4414",
+    "station": "RWP",
+    "make": "JAC X200",
+    "oddometerReading": 100188
+  },
+  {
+    "registrationNo": "CAP-497",
+    "station": "RWP",
+    "make": "JAC X200",
+    "chasisNo": "CH-9069",
+    "oddometerReading": 58892
+  },
+  {
+    "registrationNo": "CAJ-6032",
+    "station": "RWP",
+    "make": "Forland",
+    "chasisNo": "CH-4000",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "LD-2372",
+    "station": "RWP",
+    "make": "JAC X200",
+    "chasisNo": "CH-1265",
+    "oddometerReading": 13506
+  },
+  {
+    "registrationNo": "MNS-18-9041",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 299735
+  },
+  {
+    "registrationNo": "MNS-18-9018",
+    "station": "PSW",
+    "make": "Suzuki",
+    "oddometerReading": 171250
+  },
+  {
+    "registrationNo": "MNS-18-951",
+    "station": "PSW",
+    "make": "JAC 1020",
+    "oddometerReading": 153187
+  },
+  {
+    "registrationNo": "MNS-18-957",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 263649
+  },
+  {
+    "registrationNo": "MNS-19-9008",
+    "station": "PSW",
+    "make": "Suzuki",
+    "oddometerReading": 122334
+  },
+  {
+    "registrationNo": "MNS-19-902",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 324583
+  },
+  {
+    "registrationNo": "MNS-19-921",
+    "station": "PSW",
+    "make": "ISUZU D Max",
+    "oddometerReading": 197334
+  },
+  {
+    "registrationNo": "MNS-20-9001",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 223637
+  },
+  {
+    "registrationNo": "MNS-20-9018",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 321394
+  },
+  {
+    "registrationNo": "CAA-4399",
+    "station": "PSW",
+    "make": "JAC X200",
+    "oddometerReading": 116550
+  },
+  {
+    "registrationNo": "MNS-18-9023",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 251876
+  },
+  {
+    "registrationNo": "CAD-5210",
+    "station": "PSW",
+    "make": "Hyundai H100",
+    "oddometerReading": 92892
+  },
+  {
+    "registrationNo": "CAE-5458",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 158954
+  },
+  {
+    "registrationNo": "CAE-5484",
+    "station": "PSW",
+    "make": "Toyota",
+    "oddometerReading": 235820
+  },
+  {
+    "registrationNo": "CAJ-8051",
+    "station": "PSW",
+    "make": "Toyota",
+    "chasisNo": "CH-1533",
+    "oddometerReading": 162087
+  },
+  {
+    "registrationNo": "MNS-19-9012",
+    "station": "PSW",
+    "make": "ISUZU D Max",
+    "oddometerReading": 205071
+  },
+  {
+    "registrationNo": "CAK-9772",
+    "station": "PSW",
+    "make": "JAC X200",
+    "chasisNo": "CH-4087",
+    "oddometerReading": 57786
+  },
+  {
+    "registrationNo": "CAP-3102",
+    "station": "PSW",
+    "make": "Changan",
+    "chasisNo": "CH-1742",
+    "oddometerReading": 26050
+  },
+  {
+    "registrationNo": "CH-1328",
+    "station": "PSW",
+    "make": "JAC X200",
+    "oddometerReading": 6381
+  },
+  {
+    "registrationNo": "MNS-18-9027",
+    "station": "GJW",
+    "make": "Suzuki",
+    "oddometerReading": 124295
+  },
+  {
+    "registrationNo": "MNS-18-9045",
+    "station": "GJW",
+    "make": "Toyota",
+    "oddometerReading": 259570
+  },
+  {
+    "registrationNo": "MNS-18-9049",
+    "station": "GJW",
+    "make": "Toyota",
+    "oddometerReading": 65729
+  },
+  {
+    "registrationNo": "MNS-19-905",
+    "station": "GJW",
+    "make": "Toyota",
+    "oddometerReading": 233251
+  },
+  {
+    "registrationNo": "CAA-4438",
+    "station": "GJW",
+    "make": "Toyota",
+    "oddometerReading": 177384
+  },
+  {
+    "registrationNo": "CAD-6009",
+    "station": "GJW",
+    "make": "JAC X200",
+    "oddometerReading": 85556
+  },
+  {
+    "registrationNo": "CAF-6791",
+    "station": "GJW",
+    "make": "Toyota",
+    "chasisNo": "CH-1459",
+    "oddometerReading": 149554
+  },
+  {
+    "registrationNo": "CAG-1128",
+    "station": "GJW",
+    "make": "Toyota",
+    "chasisNo": " CAR-5484",
+    "oddometerReading": 252688
+  },
+  {
+    "registrationNo": "CAP-3078",
+    "station": "GJW",
+    "make": "Changan",
+    "chasisNo": "CH-1749",
+    "oddometerReading": 31844
+  },
+  {
+    "registrationNo": "CAP-3093",
+    "station": "GJW",
+    "make": "Changan",
+    "chasisNo": "CH-1754",
+    "oddometerReading": 26215
+  },
+  {
+    "registrationNo": "MNS-20-9005",
+    "station": "GJW",
+    "make": "Toyota",
+    "oddometerReading": 164648
+  },
+  {
+    "registrationNo": "CAD-896",
+    "station": "GJW",
+    "make": "JAC X200",
+    "chasisNo": "CH-1272",
+    "oddometerReading": 6964
+  },
+  {
+    "registrationNo": "MNS-17-904",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 320790
+  },
+  {
+    "registrationNo": "MNS-17-922",
+    "station": "FSD",
+    "make": "ISUZU NKR",
+    "oddometerReading": 202470
+  },
+  {
+    "registrationNo": "MNS-18-9012",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 322061
+  },
+  {
+    "registrationNo": "MNS-18-929",
+    "station": "FSD",
+    "make": "JAC 1020",
+    "oddometerReading": 170999
+  },
+  {
+    "registrationNo": "MNS-18-930",
+    "station": "FSD",
+    "make": "JAC 1020",
+    "oddometerReading": 143629
+  },
+  {
+    "registrationNo": "MNS-18-962",
+    "station": "FSD",
+    "make": "ISUZU NKR",
+    "oddometerReading": 195849
+  },
+  {
+    "registrationNo": "MNS-19-9001",
+    "station": "FSD",
+    "make": "ISUZU D Max",
+    "oddometerReading": 233105
+  },
+  {
+    "registrationNo": "MNS-19-9031",
+    "station": "FSD",
+    "make": "Suzuki",
+    "oddometerReading": 145525
+  },
+  {
+    "registrationNo": "MNS-19-9044",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 250667
+  },
+  {
+    "registrationNo": "MNS-19-9057",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 252024
+  },
+  {
+    "registrationNo": "MNS-19-907",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 275612
+  },
+  {
+    "registrationNo": "MNS-19-914",
+    "station": "FSD",
+    "make": "ISUZU D Max",
+    "oddometerReading": 250840
+  },
+  {
+    "registrationNo": "CH - 0726",
+    "station": "FSD",
+    "make": "KYC",
+    "oddometerReading": 136350
+  },
+  {
+    "registrationNo": "CAF-3566",
+    "station": "FSD",
+    "make": "KYC",
+    "chasisNo": "CH-0737",
+    "oddometerReading": 77523
+  },
+  {
+    "registrationNo": "CAD-6034",
+    "station": "FSD",
+    "make": "JAC X200",
+    "oddometerReading": 94397
+  },
+  {
+    "registrationNo": "CAF-6785",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 310000
+  },
+  {
+    "registrationNo": "CAF-6821",
+    "station": "FSD",
+    "make": "Toyota",
+    "chasisNo": "CH-1423",
+    "oddometerReading": 245038
+  },
+  {
+    "registrationNo": "CAA-2840",
+    "station": "FSD",
+    "make": "Toyota",
+    "oddometerReading": 331008
+  },
+  {
+    "registrationNo": "CAK-9765",
+    "station": "FSD",
+    "make": "JAC X200",
+    "chasisNo": " CH-4086",
+    "oddometerReading": 84384
+  },
+  {
+    "registrationNo": "CAJ-6019",
+    "station": "FSD",
+    "make": "Forland",
+    "chasisNo": "CH-3987",
+    "oddometerReading": 68141
+  },
+  {
+    "registrationNo": "CAN-1832",
+    "station": "FSD",
+    "make": "Changan",
+    "chasisNo": "CH-1592",
+    "oddometerReading": 34833
+  },
+  {
+    "registrationNo": "CAL-8456 ",
+    "station": "FSD",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0767)",
+    "oddometerReading": 156985
+  },
+  {
+    "registrationNo": "CAM-1943 ",
+    "station": "FSD",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0801)",
+    "oddometerReading": 85062
+  },
+  {
+    "registrationNo": "CH-1336",
+    "station": "FSD",
+    "make": "JAC X200",
+    "oddometerReading": 4355
+  },
+  {
+    "registrationNo": "MNS-17-912",
+    "station": "JHL",
+    "make": "ISUZU NHR",
+    "oddometerReading": 211900
+  },
+  {
+    "registrationNo": "MNS-17-917",
+    "station": "JHL",
+    "make": "Toyota",
+    "oddometerReading": 329202
+  },
+  {
+    "registrationNo": "MNS-19-925",
+    "station": "JHL",
+    "make": "ISUZU D Max",
+    "oddometerReading": 325476
+  },
+  {
+    "registrationNo": "CAC-5073",
+    "station": "JHL",
+    "make": "JAC X200",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAD-6061",
+    "station": "JHL",
+    "make": "JAC X200",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-18-949",
+    "station": "JHL",
+    "make": "JAC 1020",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAM-1952",
+    "station": "JHL",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0798)",
+    "oddometerReading": 81201
+  },
+  {
+    "registrationNo": "CH-1455",
+    "station": "JHL",
+    "make": "JAC X200",
+    "oddometerReading": 1550
+  },
+  {
+    "registrationNo": "CAA-2830",
+    "station": "SUK",
+    "make": "Toyota",
+    "oddometerReading": 324471
+  },
+  {
+    "registrationNo": "MNS-17-924",
+    "station": "SUK",
+    "make": "ISUZU NKR",
+    "oddometerReading": 336405
+  },
+  {
+    "registrationNo": "MNS-18-9008",
+    "station": "SUK",
+    "make": "Suzuki",
+    "oddometerReading": 358205
+  },
+  {
+    "registrationNo": "MNS-18-931",
+    "station": "SUK",
+    "make": "JAC 1020",
+    "oddometerReading": 382755
+  },
+  {
+    "registrationNo": "MNS-19-9015",
+    "station": "SUK",
+    "make": "ISUZU NKR",
+    "oddometerReading": 367257
+  },
+  {
+    "registrationNo": "MNS-19-9025",
+    "station": "SUK",
+    "make": "Suzuki",
+    "oddometerReading": 283134
+  },
+  {
+    "registrationNo": "MNS-19-9026",
+    "station": "SUK",
+    "make": "Suzuki",
+    "oddometerReading": 302201
+  },
+  {
+    "registrationNo": "MNS-19-9052",
+    "station": "SUK",
+    "make": "Toyota",
+    "oddometerReading": 399344
+  },
+  {
+    "registrationNo": "MNS-20-9021",
+    "station": "SUK",
+    "make": "Toyota",
+    "oddometerReading": 400484
+  },
+  {
+    "registrationNo": "CAF-6789",
+    "station": "SUK",
+    "make": "Toyota",
+    "chasisNo": "CH-1199",
+    "oddometerReading": 315052
+  },
+  {
+    "registrationNo": "CAJ-8053",
+    "station": "SUK",
+    "make": "Toyota",
+    "chasisNo": "CH-1532",
+    "oddometerReading": 266006
+  },
+  {
+    "registrationNo": "CAP-513",
+    "station": "SUK",
+    "make": "Changan",
+    "chasisNo": "CH-1663",
+    "oddometerReading": 85654
+  },
+  {
+    "registrationNo": "CAD-456",
+    "station": "SUK",
+    "make": "JAC X200",
+    "chasisNo": "CH-1268",
+    "oddometerReading": 17245
+  },
+  {
+    "registrationNo": "MNS-17-903",
+    "station": "HYD",
+    "make": "Toyota",
+    "oddometerReading": 370520
+  },
+  {
+    "registrationNo": "MNS-18-927",
+    "station": "HYD",
+    "make": "JAC 1020",
+    "oddometerReading": 129828
+  },
+  {
+    "registrationNo": "MNS-18-935",
+    "station": "HYD",
+    "make": "JAC 1020",
+    "oddometerReading": 166322
+  },
+  {
+    "registrationNo": "MNS-18-942",
+    "station": "HYD",
+    "make": "JAC 1020",
+    "oddometerReading": 172466
+  },
+  {
+    "registrationNo": "MNS-18-993",
+    "station": "HYD",
+    "make": "Toyota",
+    "oddometerReading": 387381
+  },
+  {
+    "registrationNo": "MNS-19-9011",
+    "station": "HYD",
+    "make": "ISUZU D Max",
+    "oddometerReading": 323707
+  },
+  {
+    "registrationNo": "MNS-19-9023",
+    "station": "HYD",
+    "make": "Suzuki",
+    "oddometerReading": 120795
+  },
+  {
+    "registrationNo": "MNS-19-9055",
+    "station": "HYD",
+    "make": "Toyota",
+    "oddometerReading": 309603
+  },
+  {
+    "registrationNo": "CAG-073",
+    "station": "HYD",
+    "make": "Toyota",
+    "chasisNo": "CH-1208",
+    "oddometerReading": 216578
+  },
+  {
+    "registrationNo": "MNS-18-9005",
+    "station": "AJK",
+    "make": "Toyota",
+    "oddometerReading": 271021
+  },
+  {
+    "registrationNo": "MNS-18-9032",
+    "station": "AJK",
+    "make": "Suzuki",
+    "oddometerReading": 227477
+  },
+  {
+    "registrationNo": "CAF-6811",
+    "station": "AJK",
+    "make": "Toyota",
+    "chasisNo": "CH-1418",
+    "oddometerReading": 151055
+  },
+  {
+    "registrationNo": "MNS-18-9028",
+    "station": "BWPR",
+    "make": "Suzuki",
+    "oddometerReading": 294358
+  },
+  {
+    "registrationNo": "MNS-18-9048",
+    "station": "BWPR",
+    "make": "JAC X200",
+    "oddometerReading": 284098
+  },
+  {
+    "registrationNo": "MNS-18-939",
+    "station": "BWPR",
+    "make": "JAC 1020",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-18-945",
+    "station": "BWPR",
+    "make": "JAC 1020",
+    "oddometerReading": 229290
+  },
+  {
+    "registrationNo": "MNS-19-9018",
+    "station": "BWPR",
+    "make": "ISUZU D Max",
+    "oddometerReading": 275392
+  },
+  {
+    "registrationNo": "MNS-19-9036",
+    "station": "BWPR",
+    "make": "Suzuki",
+    "oddometerReading": 212232
+  },
+  {
+    "registrationNo": "CAE-5499",
+    "station": "BWPR",
+    "make": "Toyota",
+    "oddometerReading": 194543
+  },
+  {
+    "registrationNo": "CAN-1834",
+    "station": "BWPR",
+    "make": "Changan",
+    "chasisNo": "CH-1565",
+    "oddometerReading": 101622
+  },
+  {
+    "registrationNo": "CAM-1947 ",
+    "station": "BWPR",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0802)",
+    "oddometerReading": 103005
+  },
+  {
+    "registrationNo": "MNS-18-928",
+    "station": "BWPR",
+    "make": "JAC 1020",
+    "oddometerReading": 282571
+  },
+  {
+    "registrationNo": "MNS-18-9015",
+    "station": "SKT",
+    "make": "Suzuki",
+    "oddometerReading": 206463
+  },
+  {
+    "registrationNo": "MNS-18-9038",
+    "station": "SKT",
+    "make": "Toyota",
+    "oddometerReading": 249945
+  },
+  {
+    "registrationNo": "MNS-18-997",
+    "station": "SKT",
+    "make": "Toyota",
+    "oddometerReading": 241841
+  },
+  {
+    "registrationNo": "MNS-19-9048",
+    "station": "SKT",
+    "make": "Toyota",
+    "oddometerReading": 209926
+  },
+  {
+    "registrationNo": "MNS-19-9051",
+    "station": "SKT",
+    "make": "Toyota",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAA-4393",
+    "station": "SKT",
+    "make": "JAC X200",
+    "oddometerReading": 90500
+  },
+  {
+    "registrationNo": "CAA-3206",
+    "station": "SKT",
+    "make": "JAC X200",
+    "oddometerReading": 172758
+  },
+  {
+    "registrationNo": "CAG-7229",
+    "station": "SKT",
+    "make": "Toyota",
+    "chasisNo": "CH-1512",
+    "oddometerReading": 223067
+  },
+  {
+    "registrationNo": "MNS-17-919",
+    "station": "SKT",
+    "make": "Toyota",
+    "oddometerReading": 240353
+  },
+  {
+    "registrationNo": "MNS-19-912",
+    "station": "CHTR",
+    "make": "Toyota",
+    "oddometerReading": 145898
+  },
+  {
+    "registrationNo": "CAJ-8044",
+    "station": "CHTR",
+    "make": "Toyota",
+    "chasisNo": "CH-1544",
+    "oddometerReading": 126701
+  },
+  {
+    "registrationNo": "MNS-18-9021",
+    "station": "DIK",
+    "make": "Suzuki",
+    "oddometerReading": 147979
+  },
+  {
+    "registrationNo": "MNS-18-9039",
+    "station": "DIK",
+    "make": "Toyota",
+    "oddometerReading": 293263
+  },
+  {
+    "registrationNo": "MNS-18-9043",
+    "station": "DIK",
+    "make": "Toyota",
+    "oddometerReading": 309239
+  },
+  {
+    "registrationNo": "CAP-3082",
+    "station": "DIK",
+    "make": "Changan",
+    "chasisNo": "CH-1748",
+    "oddometerReading": 22530
+  },
+  {
+    "registrationNo": "MNS-18-9011",
+    "station": "QTA",
+    "make": "Toyota",
+    "oddometerReading": 453043
+  },
+  {
+    "registrationNo": "MNS-18-9036",
+    "station": "QTA",
+    "make": "Suzuki",
+    "oddometerReading": 108529
+  },
+  {
+    "registrationNo": "MNS-19-9007",
+    "station": "QTA",
+    "make": "Suzuki",
+    "oddometerReading": 119628
+  },
+  {
+    "registrationNo": "MNS-19-9039",
+    "station": "QTA",
+    "make": "Suzuki",
+    "oddometerReading": 93450
+  },
+  {
+    "registrationNo": "MNS-19-9043",
+    "station": "QTA",
+    "make": "Toyota",
+    "oddometerReading": 322241
+  },
+  {
+    "registrationNo": "CAA-4448",
+    "station": "QTA",
+    "make": "Toyota",
+    "oddometerReading": 266787
+  },
+  {
+    "registrationNo": "CAG-1131",
+    "station": "QTA",
+    "make": "Toyota",
+    "chasisNo": "CH-1201",
+    "oddometerReading": 273694
+  },
+  {
+    "registrationNo": "CAG-069",
+    "station": "QTA",
+    "make": "Toyota",
+    "chasisNo": "CH-1207",
+    "oddometerReading": 283868
+  },
+  {
+    "registrationNo": "CAG-1133",
+    "station": "QTA",
+    "make": "Toyota",
+    "chasisNo": "CH-1235",
+    "oddometerReading": 255327
+  },
+  {
+    "registrationNo": "CAD-6047",
+    "station": "QTA",
+    "make": "JAC X200",
+    "oddometerReading": 108550
+  },
+  {
+    "registrationNo": "CAA - 2781",
+    "station": "QTA",
+    "make": "Toyota",
+    "oddometerReading": 168813
+  },
+  {
+    "registrationNo": "CAJ-8050",
+    "station": "QTA",
+    "make": "Toyota",
+    "chasisNo": "CH-1518",
+    "oddometerReading": 182856
+  },
+  {
+    "registrationNo": "CAA-2798",
+    "station": "SWT",
+    "make": "Toyota",
+    "oddometerReading": 289498
+  },
+  {
+    "registrationNo": "MNS-18-9020",
+    "station": "SWT",
+    "make": "Suzuki",
+    "oddometerReading": 166471
+  },
+  {
+    "registrationNo": "MNS-19-901",
+    "station": "SWT",
+    "make": "Toyota",
+    "oddometerReading": 372175
+  },
+  {
+    "registrationNo": "MNS-18-959",
+    "station": "SWT",
+    "make": "Toyota",
+    "oddometerReading": 338711
+  },
+  {
+    "registrationNo": "BD-8538",
+    "station": "SWT",
+    "make": "Land Cruiser",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAP-493",
+    "station": "SWT",
+    "make": "JAC X200",
+    "chasisNo": "CH-9070",
+    "oddometerReading": 49755
+  },
+  {
+    "registrationNo": "MNS-19-909",
+    "station": "HNG",
+    "make": "Toyota",
+    "oddometerReading": 159686
+  },
+  {
+    "registrationNo": "MNS-18-9017",
+    "station": "ABBT",
+    "make": "Suzuki",
+    "oddometerReading": 263576
+  },
+  {
+    "registrationNo": "MNS-18-960",
+    "station": "ABBT",
+    "make": "Toyota",
+    "oddometerReading": 333687
+  },
+  {
+    "registrationNo": "MNS-19-9058",
+    "station": "ABBT",
+    "make": "Toyota",
+    "oddometerReading": 253614
+  },
+  {
+    "registrationNo": "MNS-18-947",
+    "station": "ABBT",
+    "make": "JAC 1020",
+    "oddometerReading": 185809
+  },
+  {
+    "registrationNo": "MNS-19-9053",
+    "station": "ABBT",
+    "make": "Toyota",
+    "oddometerReading": 264452
+  },
+  {
+    "registrationNo": "MNS-17-909",
+    "station": "ABBT",
+    "make": "Toyota",
+    "oddometerReading": 274347
+  },
+  {
+    "registrationNo": "CH-1454",
+    "station": "ABBT",
+    "make": "JAC X200",
+    "oddometerReading": 823
+  },
+  {
+    "registrationNo": "CAA - 2806",
+    "station": "DGK",
+    "make": "Toyota",
+    "oddometerReading": 279845
+  },
+  {
+    "registrationNo": "MNS-18-943",
+    "station": "DGK",
+    "make": "JAC 1020",
+    "oddometerReading": 260364
+  },
+  {
+    "registrationNo": "CAC-3428",
+    "station": "DGK",
+    "make": "KYC",
+    "oddometerReading": 170368
+  },
+  {
+    "registrationNo": "CAK-9763",
+    "station": "DGK",
+    "make": "JAC X200",
+    "chasisNo": "CH-4080",
+    "oddometerReading": 118226
+  },
+  {
+    "registrationNo": "CAD-5994",
+    "station": "DGK",
+    "make": "JAC X200",
+    "oddometerReading": 153619
+  },
+  {
+    "registrationNo": "CAD-6016",
+    "station": "DGK",
+    "make": "JAC X200",
+    "oddometerReading": 171907
+  },
+  {
+    "registrationNo": "MNS-19-9019",
+    "station": "SAHIWAL",
+    "make": "ISUZU D Max",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-19-903",
+    "station": "SAHIWAL",
+    "make": "Toyota",
+    "oddometerReading": 407853
+  },
+  {
+    "registrationNo": "MNS-19-9040",
+    "station": "SAHIWAL",
+    "make": "Suzuki",
+    "oddometerReading": 198589
+  },
+  {
+    "registrationNo": "MNS-19-924",
+    "station": "SAHIWAL",
+    "make": "ISUZU D Max",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAF-3559 ",
+    "station": "SAHIWAL",
+    "make": "KYC",
+    "chasisNo": "CH-0734",
+    "oddometerReading": 66368
+  },
+  {
+    "registrationNo": "CAD-5237",
+    "station": "SAHIWAL",
+    "make": "Hyundai H100",
+    "oddometerReading": 192334
+  },
+  {
+    "registrationNo": "CAD-6063",
+    "station": "SAHIWAL",
+    "make": "JAC X200",
+    "oddometerReading": 177452
+  },
+  {
+    "registrationNo": "CAJ-5586",
+    "station": "SAHIWAL",
+    "make": "FAW",
+    "oddometerReading": 74067
+  },
+  {
+    "registrationNo": "CAM-1913 ",
+    "station": "SAHIWAL",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0799)",
+    "oddometerReading": 116706
+  },
+  {
+    "registrationNo": "MNS-17-915",
+    "station": "SRG",
+    "make": "Toyota",
+    "oddometerReading": 363096
+  },
+  {
+    "registrationNo": "MNS-18-940",
+    "station": "SRG",
+    "make": "JAC 1020",
+    "oddometerReading": 179987
+  },
+  {
+    "registrationNo": "MNS-19-9028",
+    "station": "SRG",
+    "make": "Suzuki",
+    "oddometerReading": 171557
+  },
+  {
+    "registrationNo": "MNS-19-9046",
+    "station": "SRG",
+    "make": "Toyota",
+    "oddometerReading": 289016
+  },
+  {
+    "registrationNo": "MNS-19-922",
+    "station": "SRG",
+    "make": "ISUZU D Max",
+    "oddometerReading": 389445
+  },
+  {
+    "registrationNo": "CAD-5213",
+    "station": "SRG",
+    "make": "Hyundai H100",
+    "oddometerReading": 200194
+  },
+  {
+    "registrationNo": "CAA-2802",
+    "station": "RYK",
+    "make": "Toyota",
+    "oddometerReading": 308400
+  },
+  {
+    "registrationNo": "MNS-18-941",
+    "station": "RYK",
+    "make": "JAC 1020",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-19-906",
+    "station": "RYK",
+    "make": "Toyota",
+    "oddometerReading": 398898
+  },
+  {
+    "registrationNo": "MNS-20-9006",
+    "station": "RYK",
+    "make": "Toyota",
+    "oddometerReading": 392335
+  },
+  {
+    "registrationNo": "CAD-5216",
+    "station": "RYK",
+    "make": "Hyundai H100",
+    "oddometerReading": 190800
+  },
+  {
+    "registrationNo": "CAN-1851",
+    "station": "RYK",
+    "make": "Changan",
+    "chasisNo": "CH-1553",
+    "oddometerReading": 74241
+  },
+  {
+    "registrationNo": "CAP-498",
+    "station": "RYK",
+    "make": "JAC X200",
+    "chasisNo": "CH-9066",
+    "oddometerReading": 73966
+  },
+  {
+    "registrationNo": "MNS-18-9004",
+    "station": "Larkana",
+    "make": "Toyota",
+    "oddometerReading": 444064
+  },
+  {
+    "registrationNo": "CAF-6787",
+    "station": "Larkana",
+    "make": "Toyota",
+    "oddometerReading": 264982
+  },
+  {
+    "registrationNo": "CAP-506",
+    "station": "Larkana",
+    "make": "Changan",
+    "chasisNo": "CH-1654",
+    "oddometerReading": 70452
+  },
+  {
+    "registrationNo": "MNS-18-933",
+    "station": "Khanpur",
+    "make": "JAC 1020",
+    "oddometerReading": 280764
+  },
+  {
+    "registrationNo": "MNS-18-936",
+    "station": "Khanpur",
+    "make": "JAC 1020",
+    "oddometerReading": 343349
+  },
+  {
+    "registrationNo": "MNS-18-9022",
+    "station": "Khanpur",
+    "make": "Toyota",
+    "oddometerReading": 324356
+  },
+  {
+    "registrationNo": "CAL-8463 ",
+    "station": "Khanpur",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0759)",
+    "oddometerReading": 82680
+  },
+  {
+    "registrationNo": "MNS-19-910",
+    "station": "Parachinar",
+    "make": "Toyota",
+    "oddometerReading": 87708
+  },
+  {
+    "registrationNo": "CAC-5072",
+    "station": "MRD",
+    "make": "JAC X200",
+    "chasisNo": "CH-3384",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAJ-6021",
+    "station": "MRD",
+    "make": "Forland",
+    "chasisNo": "CH-4001",
+    "oddometerReading": 86828
+  },
+  {
+    "registrationNo": "MNS-18-953",
+    "station": "MRD",
+    "make": "JAC 1020",
+    "oddometerReading": 196039
+  },
+  {
+    "registrationNo": "MNS-19-904",
+    "station": "MRD",
+    "make": "Toyota",
+    "oddometerReading": 327375
+  },
+  {
+    "registrationNo": "CAP-3079",
+    "station": "MRD",
+    "make": "Changan",
+    "chasisNo": "CH-1757",
+    "oddometerReading": 38935
+  },
+  {
+    "registrationNo": "CAD-270",
+    "station": "MRD",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5735",
+    "oddometerReading": 6769
+  },
+  {
+    "registrationNo": "MNS-18-9010",
+    "station": "GJT",
+    "make": "Toyota",
+    "oddometerReading": 208926
+  },
+  {
+    "registrationNo": "MNS-19-9021",
+    "station": "GJT",
+    "make": "Suzuki",
+    "oddometerReading": 180565
+  },
+  {
+    "registrationNo": "MNS-20-9016",
+    "station": "GJT",
+    "make": "Toyota",
+    "oddometerReading": 237245
+  },
+  {
+    "registrationNo": "CAA-4423",
+    "station": "GJT",
+    "make": "JAC X200",
+    "oddometerReading": 98109
+  },
+  {
+    "registrationNo": "CAJ-6001",
+    "station": "GJT",
+    "make": "Forland",
+    "chasisNo": "CH-3991",
+    "oddometerReading": 63425
+  },
+  {
+    "registrationNo": "CAC-5070",
+    "station": "GJT",
+    "make": "JAC X200",
+    "oddometerReading": 71429
+  },
+  {
+    "registrationNo": "MNS-19-9010",
+    "station": "SKPR",
+    "make": "ISUZU D Max",
+    "oddometerReading": 298425
+  },
+  {
+    "registrationNo": "MNS-19-9022",
+    "station": "SKPR",
+    "make": "Suzuki",
+    "oddometerReading": 273256
+  },
+  {
+    "registrationNo": "MNS-19-9030",
+    "station": "SKPR",
+    "make": "Suzuki",
+    "oddometerReading": 266736
+  },
+  {
+    "registrationNo": "CAD-6023",
+    "station": "SKPR",
+    "make": "JAC X200",
+    "oddometerReading": 168925
+  },
+  {
+    "registrationNo": "CAJ-6042",
+    "station": "SKPR",
+    "make": "Forland",
+    "chasisNo": "CH-3992",
+    "oddometerReading": 91663
+  },
+  {
+    "registrationNo": "CAL-8459 ",
+    "station": "SKPR",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0758)",
+    "oddometerReading": 94605
+  },
+  {
+    "registrationNo": "MNS-19-9024",
+    "station": "Murree",
+    "make": "Suzuki",
+    "oddometerReading": 151172
+  },
+  {
+    "registrationNo": "MNS-19-9032",
+    "station": "JHG",
+    "make": "Suzuki",
+    "oddometerReading": 270451
+  },
+  {
+    "registrationNo": "MNS-19-911",
+    "station": "JHG",
+    "make": "Toyota",
+    "oddometerReading": 381320
+  },
+  {
+    "registrationNo": "CAF-6812",
+    "station": "JHG",
+    "make": "Toyota",
+    "chasisNo": "CH-1422",
+    "oddometerReading": 211400
+  },
+  {
+    "registrationNo": "CAC-3416",
+    "station": "JHG",
+    "make": "KYC",
+    "oddometerReading": 155512
+  },
+  {
+    "registrationNo": "CAD-656",
+    "station": "JHG",
+    "make": "JAC X200",
+    "chasisNo": "CH-1270",
+    "oddometerReading": 13596
+  },
+  {
+    "registrationNo": "CH-1456",
+    "station": "JHG",
+    "make": "JAC X200",
+    "oddometerReading": 0
+  },
+  {
+    "registrationNo": "MNS-19-9038",
+    "station": "BUNR",
+    "make": "Suzuki",
+    "oddometerReading": 202737
+  },
+  {
+    "registrationNo": "MNS-18-9019",
+    "station": "VHR",
+    "make": "Suzuki",
+    "oddometerReading": 261945
+  },
+  {
+    "registrationNo": "MNS-19-9047",
+    "station": "VHR",
+    "make": "Toyota",
+    "oddometerReading": 331520
+  },
+  {
+    "registrationNo": "MNS-18-964",
+    "station": "VHR",
+    "make": "ISUZU NKR",
+    "oddometerReading": 161225
+  },
+  {
+    "registrationNo": "CAE-5481",
+    "station": "VHR",
+    "make": "Toyota",
+    "chasisNo": "CH-1223",
+    "oddometerReading": 216925
+  },
+  {
+    "registrationNo": "MNS-19-9054",
+    "station": "VHR",
+    "make": "Toyota",
+    "oddometerReading": 238450
+  },
+  {
+    "registrationNo": "CAD-464",
+    "station": "VHR",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-5569",
+    "oddometerReading": 13060
+  },
+  {
+    "registrationNo": "MNS-20-9003",
+    "station": "GBT",
+    "make": "Toyota",
+    "oddometerReading": 178467
+  },
+  {
+    "registrationNo": "BC-9133",
+    "station": "GBT",
+    "make": "Land Cruiser",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-18-9051",
+    "station": "ATTK",
+    "make": "Toyota",
+    "oddometerReading": 325236
+  },
+  {
+    "registrationNo": "MNS-17-906",
+    "station": "ATTK",
+    "make": "Toyota",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-17-926",
+    "station": "ATTK",
+    "make": "ISUZU NKR",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-20-9014",
+    "station": "Bannu",
+    "make": "Hyundai H100",
+    "oddometerReading": 155417
+  },
+  {
+    "registrationNo": "CAN-1837",
+    "station": "Bannu",
+    "make": "Changan",
+    "chasisNo": "CH-1570",
+    "oddometerReading": 58017
+  },
+  {
+    "registrationNo": "CAP-3085",
+    "station": "Bannu",
+    "make": "Changan",
+    "chasisNo": "CH-1744",
+    "oddometerReading": 24502
+  },
+  {
+    "registrationNo": "MNS-18-9013",
+    "station": "SDQ",
+    "make": "Toyota",
+    "oddometerReading": 271763
+  },
+  {
+    "registrationNo": "MNS-18-9016",
+    "station": "SDQ",
+    "make": "Suzuki",
+    "oddometerReading": 241770
+  },
+  {
+    "registrationNo": "CAJ-6046",
+    "station": "SDQ",
+    "make": "Forland",
+    "chasisNo": "CH-3996",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "MNS-20-9019",
+    "station": "Burewala",
+    "make": "Toyota",
+    "oddometerReading": 298454
+  },
+  {
+    "registrationNo": "CAD-6012",
+    "station": "Burewala",
+    "make": "JAC X200",
+    "oddometerReading": 162955
+  },
+  {
+    "registrationNo": "CAF-6804 ",
+    "station": "BWNGR",
+    "make": "Toyota",
+    "chasisNo": "(CH-1430)",
+    "oddometerReading": 159867
+  },
+  {
+    "registrationNo": "CAF-6819 ",
+    "station": "BWNGR",
+    "make": "Toyota",
+    "chasisNo": "(CH-1397)",
+    "oddometerReading": 167880
+  },
+  {
+    "registrationNo": "CAG-7218 ",
+    "station": "BWNGR",
+    "make": "Toyota",
+    "chasisNo": "(CH-1337)",
+    "oddometerReading": 116851
+  },
+  {
+    "registrationNo": "CAG-7235",
+    "station": "BWNGR",
+    "make": "Toyota",
+    "chasisNo": "CH-1333",
+    "oddometerReading": 145034
+  },
+  {
+    "registrationNo": "CAL-8454",
+    "station": "BWNGR",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0768)",
+    "oddometerReading": 80572
+  },
+  {
+    "registrationNo": "CAG-7239 ",
+    "station": "Chishtian",
+    "make": "Toyota",
+    "chasisNo": "(CH-1506)",
+    "oddometerReading": 152916
+  },
+  {
+    "registrationNo": "CAM-1951 ",
+    "station": "Chishtian",
+    "make": "JAC X200",
+    "chasisNo": "(CH-0800)",
+    "oddometerReading": 79075
+  },
+  {
+    "registrationNo": "MNS-20-9012",
+    "station": "Chichawatni",
+    "make": "Hyundai H100",
+    "oddometerReading": 260424
+  },
+  {
+    "registrationNo": "CAD-5205",
+    "station": "Chichawatni",
+    "make": "Hyundai H100",
+    "oddometerReading": 157063
+  },
+  {
+    "registrationNo": "MNS-20-9011",
+    "station": "OKR",
+    "make": "Hyundai H100",
+    "oddometerReading": 225204
+  },
+  {
+    "registrationNo": "CAD-6006",
+    "station": "OKR",
+    "make": "JAC X200",
+    "oddometerReading": 203131
+  },
+  {
+    "registrationNo": "MNS-18-934",
+    "station": "OKR",
+    "make": "JAC 1020",
+    "oddometerReading": 188428
+  },
+  {
+    "registrationNo": "CAP-509",
+    "station": "OKR",
+    "make": "Changan",
+    "chasisNo": "CH-1659",
+    "oddometerReading": 52094
+  },
+  {
+    "registrationNo": "MNS-18-944",
+    "station": "OKR",
+    "make": "JAC 1020",
+    "oddometerReading": 140792
+  },
+  {
+    "registrationNo": "CAA - 2826",
+    "station": "MZFRB",
+    "make": "Toyota",
+    "oddometerReading": "Meter U/S"
+  },
+  {
+    "registrationNo": "CAG-1125",
+    "station": "MZFRB",
+    "make": "Toyota",
+    "oddometerReading": 126150
+  },
+  {
+    "registrationNo": "CAA - 2825",
+    "station": "MZFRB",
+    "make": "Toyota",
+    "oddometerReading": 158047
+  },
+  {
+    "registrationNo": "CAG-1140",
+    "station": "MBD",
+    "make": "Toyota",
+    "chasisNo": "CH-1425",
+    "oddometerReading": 143288
+  },
+  {
+    "registrationNo": "CAA - 2810",
+    "station": "MBD",
+    "make": "Toyota",
+    "oddometerReading": 203144
+  },
+  {
+    "registrationNo": "MNS-19-9029",
+    "station": "MBD",
+    "make": "Suzuki",
+    "oddometerReading": 152553
+  },
+  {
+    "registrationNo": "CAA-3751",
+    "station": "PTK",
+    "make": "Toyota",
+    "oddometerReading": 298280
+  },
+  {
+    "registrationNo": "MNS-18-9029",
+    "station": "PTK",
+    "make": "Suzuki",
+    "oddometerReading": 245218
+  },
+  {
+    "registrationNo": "MNS-17-925",
+    "station": "PTK",
+    "make": "ISUZU NKR",
+    "oddometerReading": 172004
+  },
+  {
+    "registrationNo": "CAA - 3621",
+    "station": "Bhakkar",
+    "make": "Toyota",
+    "oddometerReading": 219294
+  },
+  {
+    "registrationNo": "CAD-6029",
+    "station": "Bhakkar",
+    "make": "JAC X200",
+    "oddometerReading": 153720
+  },
+  {
+    "registrationNo": "BH-2819",
+    "station": "Bhakkar",
+    "make": "Land Cruiser",
+    "oddometerReading": 40437
+  },
+  {
+    "registrationNo": "CAA - 3232",
+    "station": "Kohat",
+    "make": "JAC X200",
+    "oddometerReading": 162588
+  },
+  {
+    "registrationNo": "CAA - 3194",
+    "station": "Kohat",
+    "make": "JAC X200",
+    "oddometerReading": 155674
+  },
+  {
+    "registrationNo": "MNS-20-9022",
+    "station": "Skardu",
+    "make": "Toyota",
+    "oddometerReading": 105419
+  },
+  {
+    "registrationNo": "CAA - 3190",
+    "station": "MRP",
+    "make": "JAC X200",
+    "oddometerReading": 206790
+  },
+  {
+    "registrationNo": "CAF-6779",
+    "station": "MRP",
+    "make": "Toyota",
+    "chasisNo": "CH-1413",
+    "oddometerReading": 209990
+  },
+  {
+    "registrationNo": "CAA - 3192",
+    "station": "MRP",
+    "make": "JAC X200",
+    "oddometerReading": 198454
+  },
+  {
+    "registrationNo": "CAA-4430",
+    "station": "GWD",
+    "make": "Toyota",
+    "oddometerReading": 198928
+  },
+  {
+    "registrationNo": "CAG-7220",
+    "station": "Kotli AJK",
+    "make": "Toyota",
+    "chasisNo": "CH-1513",
+    "oddometerReading": 106463
+  },
+  {
+    "registrationNo": "CAG-7217",
+    "station": "Kotli AJK",
+    "make": "Toyota",
+    "chasisNo": "CH-1339",
+    "oddometerReading": 102645
+  },
+  {
+    "registrationNo": "MNS-19-9006",
+    "station": "TRBT",
+    "make": "Suzuki",
+    "oddometerReading": 123535
+  },
+  {
+    "registrationNo": "CAJ-8042",
+    "station": "TRBT",
+    "make": "Toyota",
+    "chasisNo": "CH-1516",
+    "oddometerReading": 180283
+  },
+  {
+    "registrationNo": "CAJ-6008",
+    "station": "Nawab Shah",
+    "make": "Forland",
+    "chasisNo": "CH-3995",
+    "oddometerReading": 150813
+  },
+  {
+    "registrationNo": "CAJ-6027",
+    "station": "Nawab Shah",
+    "make": "Forland",
+    "chasisNo": "CH-4010",
+    "oddometerReading": 111322
+  },
+  {
+    "registrationNo": "CAG-7224",
+    "station": "Bat Khaila",
+    "make": "Toyota",
+    "chasisNo": "CH-1517",
+    "oddometerReading": 135765
+  },
+  {
+    "registrationNo": "CAP-451",
+    "station": "Bat Khaila",
+    "make": "JAC X200",
+    "chasisNo": "CH-9068",
+    "oddometerReading": 52782
+  },
+  {
+    "registrationNo": "BE-672",
+    "station": "Bat Khaila",
+    "make": "Land Cruiser",
+    "oddometerReading": 251232
+  },
+  {
+    "registrationNo": "LD-1459",
+    "station": "Mianwali",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-4593",
+    "oddometerReading": 29715
+  },
+  {
+    "registrationNo": "LD-1457",
+    "station": "Mianwali",
+    "make": "Hyundai H100",
+    "chasisNo": "CH-4597",
+    "oddometerReading": 29495
+  },
+  {
+    "registrationNo": "LD-2367",
+    "station": "Chakwal",
+    "make": "JAC X200",
+    "chasisNo": "CH-1263",
+    "oddometerReading": 8829
+  },
+  {
+    "registrationNo": "LD-2368",
+    "station": "Chakwal",
+    "make": "JAC X200",
+    "chasisNo": "CH-1264",
+    "oddometerReading": 9444
+  }
+]

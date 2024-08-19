@@ -1,0 +1,3854 @@
+[
+  {
+    "registrationNo": "CAH-4897",
+    "lastDateOfChange": 44929,
+    "meterReading": 81155,
+    "runningDifference": 52464,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "FAW"
+  },
+  {
+    "registrationNo": "MNS-17-900",
+    "lastDateOfChange": "20/09/2022",
+    "meterReading": 246850,
+    "runningDifference": 93095,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-913",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 180060,
+    "runningDifference": 5826,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-18-9047",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 430862,
+    "runningDifference": 12642,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9027",
+    "lastDateOfChange": "16/01/2024",
+    "meterReading": 177680,
+    "runningDifference": 8543,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9042",
+    "lastDateOfChange": "17/12/2023",
+    "meterReading": 371217,
+    "runningDifference": 39271,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-913",
+    "lastDateOfChange": 45082,
+    "meterReading": 157661,
+    "runningDifference": 29584,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-916",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 245142,
+    "runningDifference": 7063,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-17-923",
+    "lastDateOfChange": 45383,
+    "meterReading": 249464,
+    "runningDifference": 8367,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "CAE-5489",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 483553,
+    "runningDifference": 43626,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-3562",
+    "lastDateOfChange": "19/03/2023",
+    "meterReading": 60980,
+    "runningDifference": 30178,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "MNS-18-9007",
+    "lastDateOfChange": 45082,
+    "meterReading": 186968,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "Shehzor"
+  },
+  {
+    "registrationNo": "CAJ-6014",
+    "lastDateOfChange": "19/03/2023",
+    "meterReading": 46581,
+    "runningDifference": 34514,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "BF-9583",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 18639,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Land Cruiser"
+  },
+  {
+    "registrationNo": "MNS-18-963",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 219404,
+    "runningDifference": 6412,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "CAG-7225",
+    "lastDateOfChange": "17/12/2023",
+    "meterReading": 222266,
+    "runningDifference": 51912,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-7243",
+    "lastDateOfChange": 45537,
+    "meterReading": 260790,
+    "runningDifference": 21432,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-923",
+    "lastDateOfChange": 45052,
+    "meterReading": 269652,
+    "runningDifference": 12134,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-18-996",
+    "lastDateOfChange": "13/02/2024",
+    "meterReading": 237927,
+    "runningDifference": 6250,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-961",
+    "lastDateOfChange": "13/02/2024",
+    "meterReading": 336649,
+    "runningDifference": 5548,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9023",
+    "lastDateOfChange": 44692,
+    "meterReading": 152173,
+    "runningDifference": 65950,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-092",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CH-1329",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAP-3103",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": null
+  },
+  {
+    "registrationNo": "CAA-4427",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 184431,
+    "runningDifference": 10860,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-5208",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 170822,
+    "runningDifference": 8340,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS-17-920",
+    "lastDateOfChange": "16/01/2024",
+    "meterReading": 404776,
+    "runningDifference": 13184,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-3564",
+    "lastDateOfChange": "15/04/2023",
+    "meterReading": 77725,
+    "runningDifference": 27430,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAA-3745",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 161536,
+    "runningDifference": 18968,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-17-901",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 194337,
+    "runningDifference": 9719,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-17-902",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 157662,
+    "runningDifference": 10951,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-17-910",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 184405,
+    "runningDifference": 15085,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-17-914",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 211445,
+    "runningDifference": 15825,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-17-918",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 249025,
+    "runningDifference": 16981,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-18-9003",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 200411,
+    "runningDifference": 13941,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-18-9009",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 138763,
+    "runningDifference": 9094,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9037",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 227622,
+    "runningDifference": 9698,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-18-9040",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 195222,
+    "runningDifference": 9462,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-18-9050",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 222787,
+    "runningDifference": 19010,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-18-950",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 180067,
+    "runningDifference": 17030,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-955",
+    "lastDateOfChange": "28/10/2223",
+    "meterReading": 153810,
+    "runningDifference": 9179,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-966",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 176925,
+    "runningDifference": 14179,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-19-900",
+    "lastDateOfChange": "28/01/2023",
+    "meterReading": 135260,
+    "runningDifference": 36693,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9003",
+    "lastDateOfChange": "28/01/2023",
+    "meterReading": 131529,
+    "runningDifference": 49184,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9009",
+    "lastDateOfChange": "28/01/2023",
+    "meterReading": 127811,
+    "runningDifference": 31680,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9049",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 200286,
+    "runningDifference": 23708,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-19-9050",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 176044,
+    "runningDifference": 18328,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-20-9010",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 137391,
+    "runningDifference": 15325,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-20-9013",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 142755,
+    "runningDifference": 14296,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS-20-9015",
+    "lastDateOfChange": "28/10/202",
+    "meterReading": 96312,
+    "runningDifference": 10566,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS-20-9020",
+    "lastDateOfChange": "30/01/2024",
+    "meterReading": 225763,
+    "runningDifference": 10017,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "CAA-4451",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 128888,
+    "runningDifference": 17927,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "CAA-4392",
+    "lastDateOfChange": 44932,
+    "meterReading": 68187,
+    "runningDifference": 22131,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA-4395",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 77132,
+    "runningDifference": 34199,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAC-5071",
+    "lastDateOfChange": 44932,
+    "meterReading": 70805,
+    "runningDifference": 20617,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-932",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 201730,
+    "runningDifference": 10759,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "CAD-6019",
+    "lastDateOfChange": 44932,
+    "meterReading": 62270,
+    "runningDifference": 26035,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAH-4901",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 89773,
+    "runningDifference": 15110,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDF-2039"
+  },
+  {
+    "registrationNo": "CAF-6784",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 117844,
+    "runningDifference": 15974,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "MNS-19-9017",
+    "lastDateOfChange": "28/01/2023",
+    "meterReading": 139587,
+    "runningDifference": 28006,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "CAG-7236",
+    "lastDateOfChange": 44989,
+    "meterReading": 79500,
+    "runningDifference": 88250,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "CAJ-8046",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 92597,
+    "runningDifference": 44216,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "CAJ-8055",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 91730,
+    "runningDifference": 36378,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2056"
+  },
+  {
+    "registrationNo": "CAN-1852",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 33163,
+    "runningDifference": 13218,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-1063"
+  },
+  {
+    "registrationNo": "CAL-8450 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 38140,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-9031",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 198200,
+    "runningDifference": 17640,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAP-507",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 21756,
+    "runningDifference": 13048,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-1063"
+  },
+  {
+    "registrationNo": "CAP-494",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 37777,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAP-3089",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 23375,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-1063"
+  },
+  {
+    "registrationNo": "CAP-3101",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 18890,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-1063"
+  },
+  {
+    "registrationNo": "CAP-3099",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 19000,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-1063"
+  },
+  {
+    "registrationNo": "LD-1460",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 25871,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAD-382",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4457,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "LD-2370",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4385,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-984",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 3399,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CH-1337",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4685,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CH-1452",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA - 3748",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 152417,
+    "runningDifference": 48373,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-908",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 219451,
+    "runningDifference": 27048,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-921",
+    "lastDateOfChange": "20/01/2023",
+    "meterReading": 149856,
+    "runningDifference": 29967,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9001",
+    "lastDateOfChange": "25/06/2023",
+    "meterReading": 191684,
+    "runningDifference": 37391,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9002",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 161241,
+    "runningDifference": 39929,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9014",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 142672,
+    "runningDifference": 32755,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9024",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 145293,
+    "runningDifference": 40463,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9026",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 122249,
+    "runningDifference": 24496,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9030",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 125934,
+    "runningDifference": 19774,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9033",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 118215,
+    "runningDifference": 30886,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9042",
+    "lastDateOfChange": "20/01/2023",
+    "meterReading": 162722,
+    "runningDifference": 43133,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9044",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 156803,
+    "runningDifference": 39182,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9046",
+    "lastDateOfChange": "18/01/2023",
+    "meterReading": 136959,
+    "runningDifference": 37856,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9052",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 224535,
+    "runningDifference": 21658,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-938",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 98186,
+    "runningDifference": 18437,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-958",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 143260,
+    "runningDifference": 32205,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9005",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 132225,
+    "runningDifference": 25875,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9013",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 165789,
+    "runningDifference": 31701,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9020",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 136060,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9033",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 93448,
+    "runningDifference": 32593,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9034",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 65784,
+    "runningDifference": 33495,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9037",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 110521,
+    "runningDifference": 32400,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9041",
+    "lastDateOfChange": "25/06/2023",
+    "meterReading": 172838,
+    "runningDifference": 32396,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9045",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 137178,
+    "runningDifference": 36337,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9004",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 134675,
+    "runningDifference": 32919,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9008",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 176029,
+    "runningDifference": 38220,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9009",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 145304,
+    "runningDifference": 47638,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAC-3411",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 56891,
+    "runningDifference": 11049,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAC-5069",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 74115,
+    "runningDifference": 23481,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-5226",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 68336,
+    "runningDifference": 21935,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAD-6067",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 57653,
+    "runningDifference": 24293,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-6001",
+    "lastDateOfChange": 45080,
+    "meterReading": 72876,
+    "runningDifference": 29042,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAF-6788 ",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 75157,
+    "runningDifference": 34448,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1144  ",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 124940,
+    "runningDifference": 76685,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-6806 ",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 65748,
+    "runningDifference": 44071,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-5221",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 85844,
+    "runningDifference": 38310,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAA-4406",
+    "lastDateOfChange": "24/03/2023",
+    "meterReading": 99864,
+    "runningDifference": 44158,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9053",
+    "lastDateOfChange": "18/01/2023",
+    "meterReading": 275930,
+    "runningDifference": 45093,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAJ-6024",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 38814,
+    "runningDifference": 25291,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAK-9782",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 24473,
+    "runningDifference": 35785,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAK-9775",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 36920,
+    "runningDifference": 40321,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-9025",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 311857,
+    "runningDifference": 28360,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-502",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 34623,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "MNS-19-908",
+    "lastDateOfChange": "17/11/2022",
+    "meterReading": 206452,
+    "runningDifference": 55489,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "LD-1458",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 27649,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "LD-1456",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 26308,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS 20-900",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 58876,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAD-057",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 11702,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "LD-2369",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4046,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CH-1338",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 3281,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAG-059",
+    "lastDateOfChange": 45144,
+    "meterReading": 168478,
+    "runningDifference": 89556,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-954",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 238091,
+    "runningDifference": 6302,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-17-907",
+    "lastDateOfChange": "15/03/2023",
+    "meterReading": 276983,
+    "runningDifference": 40462,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9006",
+    "lastDateOfChange": 44963,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "Shehzor"
+  },
+  {
+    "registrationNo": "MNS-18-9034",
+    "lastDateOfChange": 44928,
+    "meterReading": 130108,
+    "runningDifference": 35892,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-946",
+    "lastDateOfChange": 44963,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-948",
+    "lastDateOfChange": 44963,
+    "meterReading": 172503,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-20-9002",
+    "lastDateOfChange": "15/03/2023",
+    "meterReading": 239083,
+    "runningDifference": 80589,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAC-3405",
+    "lastDateOfChange": 44963,
+    "meterReading": 78664,
+    "runningDifference": 28701,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAH-4895",
+    "lastDateOfChange": "15/03/2023",
+    "meterReading": 45743,
+    "runningDifference": 25975,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "FAW"
+  },
+  {
+    "registrationNo": "CAG-065",
+    "lastDateOfChange": 44963,
+    "meterReading": 149912,
+    "runningDifference": 62388,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-491",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 44580,
+    "dueStatus": "Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "LD-1455",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAD-487",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6938,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA-3624",
+    "lastDateOfChange": 45022,
+    "meterReading": 211332,
+    "runningDifference": 71408,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-916",
+    "lastDateOfChange": 44623,
+    "meterReading": 149080,
+    "runningDifference": 44544,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9035",
+    "lastDateOfChange": "31/01/2023",
+    "meterReading": 121760,
+    "runningDifference": 37828,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-937",
+    "lastDateOfChange": "18/11/2022",
+    "meterReading": 154530,
+    "runningDifference": 23676,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-956",
+    "lastDateOfChange": 44692,
+    "meterReading": 129981,
+    "runningDifference": 34172,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-965",
+    "lastDateOfChange": 44692,
+    "meterReading": 148166,
+    "runningDifference": 26692,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-19-9002",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 112953,
+    "runningDifference": 27886,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9004",
+    "lastDateOfChange": "31/01/2023",
+    "meterReading": 69492,
+    "runningDifference": 18796,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9016",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 116756,
+    "runningDifference": 28378,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9035",
+    "lastDateOfChange": "31/01/2023",
+    "meterReading": 112860,
+    "runningDifference": 34733,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-20-9007",
+    "lastDateOfChange": "26/02/2022",
+    "meterReading": 105563,
+    "runningDifference": 66227,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9017",
+    "lastDateOfChange": 45022,
+    "meterReading": 198475,
+    "runningDifference": 43232,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-952",
+    "lastDateOfChange": 44867,
+    "meterReading": 123270,
+    "runningDifference": 30190,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "CAC-3419",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 93432,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAA - 2833",
+    "lastDateOfChange": "26/02/2022",
+    "meterReading": 82451,
+    "runningDifference": 136460,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1138",
+    "lastDateOfChange": 45022,
+    "meterReading": 201300,
+    "runningDifference": 77456,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-068",
+    "lastDateOfChange": "25/08/2022",
+    "meterReading": 99364,
+    "runningDifference": 143687,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-4414",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 0,
+    "runningDifference": 100188,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAP-497",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 58892,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAJ-6032",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "LD-2372",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-9041",
+    "lastDateOfChange": 45022,
+    "meterReading": 269000,
+    "runningDifference": 30735,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9018",
+    "lastDateOfChange": "30/01/2023",
+    "meterReading": 134700,
+    "runningDifference": 36550,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-951",
+    "lastDateOfChange": 45022,
+    "meterReading": 131900,
+    "runningDifference": 21287,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-957",
+    "lastDateOfChange": 45022,
+    "meterReading": 208219,
+    "runningDifference": 55430,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9008",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 94612,
+    "runningDifference": 27722,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-902",
+    "lastDateOfChange": 45022,
+    "meterReading": 268300,
+    "runningDifference": 56283,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-921",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 160220,
+    "runningDifference": 37114,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-20-9001",
+    "lastDateOfChange": 45022,
+    "meterReading": 179800,
+    "runningDifference": 43837,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9018",
+    "lastDateOfChange": 45022,
+    "meterReading": 252200,
+    "runningDifference": 69194,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-4399",
+    "lastDateOfChange": 45022,
+    "meterReading": 85200,
+    "runningDifference": 31350,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-9023",
+    "lastDateOfChange": 45022,
+    "meterReading": 200000,
+    "runningDifference": 51876,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-5210",
+    "lastDateOfChange": "16/05/2023",
+    "meterReading": 63810,
+    "runningDifference": 29082,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAE-5458",
+    "lastDateOfChange": 45022,
+    "meterReading": 112837,
+    "runningDifference": 46117,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAE-5484",
+    "lastDateOfChange": "29/01/2022",
+    "meterReading": 50981,
+    "runningDifference": 184839,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAJ-8051",
+    "lastDateOfChange": 45022,
+    "meterReading": 81800,
+    "runningDifference": 80287,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9012",
+    "lastDateOfChange": "30/01/2023",
+    "meterReading": 166135,
+    "runningDifference": 38936,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "CAK-9772",
+    "lastDateOfChange": 45022,
+    "meterReading": 25710,
+    "runningDifference": 32076,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAP-3102",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 26050,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CH-1328",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6381,
+    "dueStatus": null,
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-9027",
+    "lastDateOfChange": 44928,
+    "meterReading": 104485,
+    "runningDifference": 19810,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9045",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 217725,
+    "runningDifference": 41845,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9049",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 20343,
+    "runningDifference": 45386,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-905",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 199968,
+    "runningDifference": 33283,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-4438",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 132889,
+    "runningDifference": 44495,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-6009",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 66036,
+    "runningDifference": 19520,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAF-6791",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 96534,
+    "runningDifference": 53020,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1128",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 160933,
+    "runningDifference": 91755,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-3078",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 31844,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAP-3093",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 26215,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "MNS-20-9005",
+    "lastDateOfChange": 45113,
+    "meterReading": 133618,
+    "runningDifference": 31030,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-896",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6964,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-17-904",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 283190,
+    "runningDifference": 37600,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-922",
+    "lastDateOfChange": 44932,
+    "meterReading": 180437,
+    "runningDifference": 22033,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-18-9012",
+    "lastDateOfChange": "29/05/2023",
+    "meterReading": 287133,
+    "runningDifference": 34928,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-929",
+    "lastDateOfChange": 44932,
+    "meterReading": 154119,
+    "runningDifference": 16880,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-930",
+    "lastDateOfChange": 45211,
+    "meterReading": 125824,
+    "runningDifference": 17805,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-962",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 164308,
+    "runningDifference": 31541,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-19-9001",
+    "lastDateOfChange": "28/01/2023",
+    "meterReading": 188891,
+    "runningDifference": 44214,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9031",
+    "lastDateOfChange": "14/05/2023",
+    "meterReading": 123386,
+    "runningDifference": 22139,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9044",
+    "lastDateOfChange": "29/05/2023",
+    "meterReading": 207736,
+    "runningDifference": 42931,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9057",
+    "lastDateOfChange": "29/05/2023",
+    "meterReading": 207318,
+    "runningDifference": 44706,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-907",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 232443,
+    "runningDifference": 43169,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-914",
+    "lastDateOfChange": "14/05/2023",
+    "meterReading": 200075,
+    "runningDifference": 50765,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "CH - 0726",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 136350,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAF-3566",
+    "lastDateOfChange": 44967,
+    "meterReading": 66471,
+    "runningDifference": 11052,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAD-6034",
+    "lastDateOfChange": "26/10/2022",
+    "meterReading": 53770,
+    "runningDifference": 40627,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAF-6785",
+    "lastDateOfChange": 45083,
+    "meterReading": 210869,
+    "runningDifference": 99131,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-6821",
+    "lastDateOfChange": "29/05/2023",
+    "meterReading": 155453,
+    "runningDifference": 89585,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-2840",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 278534,
+    "runningDifference": 52474,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAK-9765",
+    "lastDateOfChange": 44931,
+    "meterReading": 38351,
+    "runningDifference": 46033,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAJ-6019",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 68141,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAN-1832",
+    "lastDateOfChange": "29/05/2023",
+    "meterReading": 13730,
+    "runningDifference": 21103,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAL-8456 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 156985,
+    "dueStatus": "Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAM-1943 ",
+    "lastDateOfChange": 44932,
+    "meterReading": 23400,
+    "runningDifference": 61662,
+    "dueStatus": "Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CH-1336",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4355,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-17-912",
+    "lastDateOfChange": 45022,
+    "meterReading": 178301,
+    "runningDifference": 33599,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-17-917",
+    "lastDateOfChange": 45022,
+    "meterReading": 293836,
+    "runningDifference": 35366,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-925",
+    "lastDateOfChange": 45022,
+    "meterReading": 274681,
+    "runningDifference": 50795,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "CAC-5073",
+    "lastDateOfChange": "22/10/2022",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-6061",
+    "lastDateOfChange": 44986,
+    "meterReading": 52286,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-949",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 111390,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "CAM-1952",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 81201,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CH-1455",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 1550,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA-2830",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 308267,
+    "runningDifference": 16204,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-924",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 329340,
+    "runningDifference": 7065,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-18-9008",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 347373,
+    "runningDifference": 10832,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-931",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 373714,
+    "runningDifference": 9041,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-19-9015",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 351535,
+    "runningDifference": 15722,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-19-9025",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 280039,
+    "runningDifference": 3095,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9026",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 293381,
+    "runningDifference": 8820,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9052",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 377737,
+    "runningDifference": 21607,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9021",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 383844,
+    "runningDifference": 16640,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-6789",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 294688,
+    "runningDifference": 20364,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAJ-8053",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 240104,
+    "runningDifference": 25902,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-513",
+    "lastDateOfChange": 45052,
+    "meterReading": 23027,
+    "runningDifference": 62627,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAD-456",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-17-903",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 357670,
+    "runningDifference": 12850,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-927",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 123838,
+    "runningDifference": 5990,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-935",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 160500,
+    "runningDifference": 5822,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-942",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 168287,
+    "runningDifference": 4179,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-993",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 377184,
+    "runningDifference": 10197,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9011",
+    "lastDateOfChange": "31/01/2023",
+    "meterReading": 254957,
+    "runningDifference": 68750,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9023",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 115466,
+    "runningDifference": 5329,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9055",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 296626,
+    "runningDifference": 12977,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-073",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 200430,
+    "runningDifference": 16148,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9005",
+    "lastDateOfChange": 44963,
+    "meterReading": 231520,
+    "runningDifference": 39501,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9032",
+    "lastDateOfChange": 44928,
+    "meterReading": 177084,
+    "runningDifference": 50393,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAF-6811",
+    "lastDateOfChange": 44963,
+    "meterReading": 97992,
+    "runningDifference": 53063,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9028",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 283214,
+    "runningDifference": 11144,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9048",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 275683,
+    "runningDifference": 8415,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-939",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-945",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 225923,
+    "runningDifference": 3367,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-19-9018",
+    "lastDateOfChange": 45205,
+    "meterReading": 246554,
+    "runningDifference": 28838,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9036",
+    "lastDateOfChange": "312/01/2024",
+    "meterReading": 197374,
+    "runningDifference": 14858,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAE-5499",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 170023,
+    "runningDifference": 24520,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAN-1834",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 101622,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAM-1947 ",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 89262,
+    "runningDifference": 13743,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-928",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 278086,
+    "runningDifference": 4485,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-9015",
+    "lastDateOfChange": 45598,
+    "meterReading": 200508,
+    "runningDifference": 5955,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9038",
+    "lastDateOfChange": 45598,
+    "meterReading": 242124,
+    "runningDifference": 7821,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-997",
+    "lastDateOfChange": 45598,
+    "meterReading": 238316,
+    "runningDifference": 3525,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9048",
+    "lastDateOfChange": 45598,
+    "meterReading": 204145,
+    "runningDifference": 5781,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9051",
+    "lastDateOfChange": 45598,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-4393",
+    "lastDateOfChange": 45598,
+    "meterReading": 84627,
+    "runningDifference": 5873,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA-3206",
+    "lastDateOfChange": 45598,
+    "meterReading": 166360,
+    "runningDifference": 6398,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAG-7229",
+    "lastDateOfChange": 45598,
+    "meterReading": 203626,
+    "runningDifference": 19441,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-919",
+    "lastDateOfChange": 45598,
+    "meterReading": 226490,
+    "runningDifference": 13863,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-912",
+    "lastDateOfChange": 45113,
+    "meterReading": 128437,
+    "runningDifference": 17461,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAJ-8044",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 81800,
+    "runningDifference": 44901,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9021",
+    "lastDateOfChange": 44928,
+    "meterReading": 113698,
+    "runningDifference": 34281,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9039",
+    "lastDateOfChange": "22/02/2022",
+    "meterReading": 177220,
+    "runningDifference": 116043,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9043",
+    "lastDateOfChange": "22/02/2022",
+    "meterReading": 182390,
+    "runningDifference": 126849,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-3082",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 22530,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "MNS-18-9011",
+    "lastDateOfChange": 45144,
+    "meterReading": 398070,
+    "runningDifference": 54973,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9036",
+    "lastDateOfChange": 44959,
+    "meterReading": 83573,
+    "runningDifference": 24956,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9007",
+    "lastDateOfChange": 45144,
+    "meterReading": 105954,
+    "runningDifference": 13674,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9039",
+    "lastDateOfChange": "24/10/2022",
+    "meterReading": 74439,
+    "runningDifference": 19011,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9043",
+    "lastDateOfChange": 45144,
+    "meterReading": 305970,
+    "runningDifference": 16271,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-4448",
+    "lastDateOfChange": 45144,
+    "meterReading": 220922,
+    "runningDifference": 45865,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1131",
+    "lastDateOfChange": 45144,
+    "meterReading": 171243,
+    "runningDifference": 102451,
+    "dueStatus": "Due",
+    "quantity": null,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-069",
+    "lastDateOfChange": 45144,
+    "meterReading": 181189,
+    "runningDifference": 102679,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1133",
+    "lastDateOfChange": 45144,
+    "meterReading": 168142,
+    "runningDifference": 87185,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-6047",
+    "lastDateOfChange": 45144,
+    "meterReading": 83096,
+    "runningDifference": 25454,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA - 2781",
+    "lastDateOfChange": "17/11/2022",
+    "meterReading": 99382,
+    "runningDifference": 69431,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAJ-8050",
+    "lastDateOfChange": "25/03/2023",
+    "meterReading": 67111,
+    "runningDifference": 115745,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-2798",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 231478,
+    "runningDifference": 58020,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9020",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 143161,
+    "runningDifference": 23310,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-901",
+    "lastDateOfChange": "24/06/2023",
+    "meterReading": 311209,
+    "runningDifference": 60966,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-959",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 296798,
+    "runningDifference": 41913,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "BD-8538",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "Land Cruiser"
+  },
+  {
+    "registrationNo": "CAP-493",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 49755,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-19-909",
+    "lastDateOfChange": "18/06/2023",
+    "meterReading": 132373,
+    "runningDifference": 27313,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9017",
+    "lastDateOfChange": "15/04/2022",
+    "meterReading": 159386,
+    "runningDifference": 104190,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-960",
+    "lastDateOfChange": 45445,
+    "meterReading": 322056,
+    "runningDifference": 11631,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9058",
+    "lastDateOfChange": 45353,
+    "meterReading": 242320,
+    "runningDifference": 11294,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-947",
+    "lastDateOfChange": 45266,
+    "meterReading": 158149,
+    "runningDifference": 27660,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-19-9053",
+    "lastDateOfChange": 45353,
+    "meterReading": 253055,
+    "runningDifference": 11397,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-909",
+    "lastDateOfChange": 45384,
+    "meterReading": 262221,
+    "runningDifference": 12126,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CH-1454",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 823,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA - 2806",
+    "lastDateOfChange": "19/01/2024",
+    "meterReading": 262468,
+    "runningDifference": 17377,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-943",
+    "lastDateOfChange": "19/01/2024",
+    "meterReading": 247791,
+    "runningDifference": 12573,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "CAC-3428",
+    "lastDateOfChange": 44932,
+    "meterReading": 139432,
+    "runningDifference": 30936,
+    "dueStatus": "Overdue",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAK-9763",
+    "lastDateOfChange": "19/01/2024",
+    "meterReading": 101225,
+    "runningDifference": 17001,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-5994",
+    "lastDateOfChange": "19/01/2024",
+    "meterReading": 140678,
+    "runningDifference": 12941,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAD-6016",
+    "lastDateOfChange": "19/01/2024",
+    "meterReading": 156776,
+    "runningDifference": 15131,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-19-9019",
+    "lastDateOfChange": 45272,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-903",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 329455,
+    "runningDifference": 78398,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9040",
+    "lastDateOfChange": "30/01/2023",
+    "meterReading": 130423,
+    "runningDifference": 68166,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-924",
+    "lastDateOfChange": 45272,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "CAF-3559 ",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 59908,
+    "runningDifference": 6460,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAD-5237",
+    "lastDateOfChange": "17/01/2024",
+    "meterReading": 176545,
+    "runningDifference": 15789,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAD-6063",
+    "lastDateOfChange": 44693,
+    "meterReading": 102013,
+    "runningDifference": 75439,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAJ-5586",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 49902,
+    "runningDifference": 24165,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "FAW"
+  },
+  {
+    "registrationNo": "CAM-1913 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 116706,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-17-915",
+    "lastDateOfChange": 45353,
+    "meterReading": 352634,
+    "runningDifference": 10462,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-940",
+    "lastDateOfChange": 45353,
+    "meterReading": 176954,
+    "runningDifference": 3033,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-19-9028",
+    "lastDateOfChange": 45353,
+    "meterReading": 166556,
+    "runningDifference": 5001,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9046",
+    "lastDateOfChange": 45353,
+    "meterReading": 274586,
+    "runningDifference": 14430,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-922",
+    "lastDateOfChange": 45353,
+    "meterReading": 375655,
+    "runningDifference": 13790,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "CAD-5213",
+    "lastDateOfChange": 45353,
+    "meterReading": 186414,
+    "runningDifference": 13780,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAA-2802",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 280560,
+    "runningDifference": 27840,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-941",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-19-906",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 379970,
+    "runningDifference": 18928,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-20-9006",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 368657,
+    "runningDifference": 23678,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-5216",
+    "lastDateOfChange": "27/01/2027",
+    "meterReading": 179282,
+    "runningDifference": 11518,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAN-1851",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 74241,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAP-498",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 62720,
+    "runningDifference": 11246,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-9004",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 425292,
+    "runningDifference": 18772,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-6787",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 247737,
+    "runningDifference": 17245,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-506",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 70452,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "MNS-18-933",
+    "lastDateOfChange": "14/11/2022",
+    "meterReading": 214076,
+    "runningDifference": 66688,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-936",
+    "lastDateOfChange": "14/11/2022",
+    "meterReading": 269498,
+    "runningDifference": 73851,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-18-9022",
+    "lastDateOfChange": 45207,
+    "meterReading": 282474,
+    "runningDifference": 41882,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAL-8463 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 82680,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-19-910",
+    "lastDateOfChange": "14/06/2023",
+    "meterReading": 72625,
+    "runningDifference": 15083,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAC-5072",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAJ-6021",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 54268,
+    "runningDifference": 32560,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "MNS-18-953",
+    "lastDateOfChange": "31/05/2023",
+    "meterReading": 157665,
+    "runningDifference": 38374,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "MNS-19-904",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 264504,
+    "runningDifference": 62871,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-3079",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 38935,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAD-270",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6769,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS-18-9010",
+    "lastDateOfChange": 45022,
+    "meterReading": 174591,
+    "runningDifference": 34335,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9021",
+    "lastDateOfChange": 45022,
+    "meterReading": 149330,
+    "runningDifference": 31235,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-20-9016",
+    "lastDateOfChange": 45022,
+    "meterReading": 179048,
+    "runningDifference": 58197,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA-4423",
+    "lastDateOfChange": "13/01/2023",
+    "meterReading": 77049,
+    "runningDifference": 21060,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAJ-6001",
+    "lastDateOfChange": "23/01/2023",
+    "meterReading": 32026,
+    "runningDifference": 31399,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAC-5070",
+    "lastDateOfChange": "19/03/2022",
+    "meterReading": 33100,
+    "runningDifference": 38329,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-19-9010",
+    "lastDateOfChange": 44846,
+    "meterReading": 221866,
+    "runningDifference": 76559,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 20400
+  },
+  {
+    "registrationNo": "MNS-19-9022",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 218100,
+    "runningDifference": 55156,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9030",
+    "lastDateOfChange": "14/07/2023",
+    "meterReading": 220627,
+    "runningDifference": 46109,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAD-6023",
+    "lastDateOfChange": 45267,
+    "meterReading": 122523,
+    "runningDifference": 46402,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAJ-6042",
+    "lastDateOfChange": 44843,
+    "meterReading": 25954,
+    "runningDifference": 65709,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAL-8459 ",
+    "lastDateOfChange": "19/01/2024",
+    "meterReading": 81018,
+    "runningDifference": 13587,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-19-9024",
+    "lastDateOfChange": "16/11/2022",
+    "meterReading": 106570,
+    "runningDifference": 44602,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9032",
+    "lastDateOfChange": "28/10/2022",
+    "meterReading": 178203,
+    "runningDifference": 92248,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-911",
+    "lastDateOfChange": "28/10/2022",
+    "meterReading": 273559,
+    "runningDifference": 107761,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-6812",
+    "lastDateOfChange": "28/10/2022",
+    "meterReading": 98844,
+    "runningDifference": 112556,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAC-3416",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 155512,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "KYC"
+  },
+  {
+    "registrationNo": "CAD-656",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 13596,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CH-1456",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-19-9038",
+    "lastDateOfChange": 44816,
+    "meterReading": 152760,
+    "runningDifference": 49977,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-18-9019",
+    "lastDateOfChange": 45598,
+    "meterReading": 210636,
+    "runningDifference": 51309,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-19-9047",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 314935,
+    "runningDifference": 16585,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-964",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 151871,
+    "runningDifference": 9354,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "CAE-5481",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 200404,
+    "runningDifference": 16521,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9054",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 223702,
+    "runningDifference": 14748,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-464",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 13060,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS-20-9003",
+    "lastDateOfChange": 45505,
+    "meterReading": 169671,
+    "runningDifference": 8796,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "BC-9133",
+    "lastDateOfChange": "20/02/2024",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "Land Cruiser"
+  },
+  {
+    "registrationNo": "MNS-18-9051",
+    "lastDateOfChange": 44631,
+    "meterReading": 234824,
+    "runningDifference": 90412,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-906",
+    "lastDateOfChange": "13/04/2022",
+    "meterReading": 227568,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-17-926",
+    "lastDateOfChange": 44990,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "MNS-20-9014",
+    "lastDateOfChange": "16/05/2023",
+    "meterReading": 119075,
+    "runningDifference": 36342,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAN-1837",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 58017,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "CAP-3085",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 24502,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "MNS-18-9013",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 260430,
+    "runningDifference": 11333,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9016",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 230645,
+    "runningDifference": 11125,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAJ-6046",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "MNS-20-9019",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 280600,
+    "runningDifference": 17854,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-6012",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 153190,
+    "runningDifference": 9765,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAF-6804 ",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 145543,
+    "runningDifference": 14324,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAF-6819 ",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 156940,
+    "runningDifference": 10940,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-7218 ",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 110637,
+    "runningDifference": 6214,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-7235",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 131084,
+    "runningDifference": 13950,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAL-8454",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 69108,
+    "runningDifference": 11464,
+    "dueStatus": "Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAG-7239 ",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 138739,
+    "runningDifference": 14177,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAM-1951 ",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 66188,
+    "runningDifference": 12887,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-20-9012",
+    "lastDateOfChange": "24/12/2023",
+    "meterReading": 243843,
+    "runningDifference": 16581,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAD-5205",
+    "lastDateOfChange": 45174,
+    "meterReading": 103842,
+    "runningDifference": 53221,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "MNS-20-9011",
+    "lastDateOfChange": "30/01/2024",
+    "meterReading": 212737,
+    "runningDifference": 12467,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "CAD-6006",
+    "lastDateOfChange": "30/01/2023",
+    "meterReading": 138347,
+    "runningDifference": 64784,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-18-934",
+    "lastDateOfChange": "23/11/2022",
+    "meterReading": 0,
+    "runningDifference": 188428,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "CAP-509",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 52094,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "Changan"
+  },
+  {
+    "registrationNo": "MNS-18-944",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 133029,
+    "runningDifference": 7763,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "GDA-969"
+  },
+  {
+    "registrationNo": "CAA - 2826",
+    "lastDateOfChange": "31/10/2022",
+    "meterReading": 90575,
+    "runningDifference": null,
+    "dueStatus": null,
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1125",
+    "lastDateOfChange": "31/10/2022",
+    "meterReading": 61440,
+    "runningDifference": 64710,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA - 2825",
+    "lastDateOfChange": "31/10/2022",
+    "meterReading": 104740,
+    "runningDifference": 53307,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-1140",
+    "lastDateOfChange": "21/10/2022",
+    "meterReading": 58061,
+    "runningDifference": 85227,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA - 2810",
+    "lastDateOfChange": "21/10/2022",
+    "meterReading": 120876,
+    "runningDifference": 82268,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9029",
+    "lastDateOfChange": "28/02/2023",
+    "meterReading": 102470,
+    "runningDifference": 50083,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAA-3751",
+    "lastDateOfChange": 44963,
+    "meterReading": 240748,
+    "runningDifference": 57532,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-18-9029",
+    "lastDateOfChange": "30/01/2023",
+    "meterReading": 183690,
+    "runningDifference": 61528,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "MNS-17-925",
+    "lastDateOfChange": "31/01/2022",
+    "meterReading": 96774,
+    "runningDifference": 75230,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-949"
+  },
+  {
+    "registrationNo": "CAA - 3621",
+    "lastDateOfChange": 44783,
+    "meterReading": 123120,
+    "runningDifference": 96174,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAD-6029",
+    "lastDateOfChange": "15/04/2022",
+    "meterReading": 52580,
+    "runningDifference": 101140,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "BH-2819",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 40437,
+    "dueStatus": "Due",
+    "quantity": 1,
+    "airFilter": "Land Cruiser"
+  },
+  {
+    "registrationNo": "CAA - 3232",
+    "lastDateOfChange": "26/02/2022",
+    "meterReading": 66125,
+    "runningDifference": 96463,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA - 3194",
+    "lastDateOfChange": "26/03/2022",
+    "meterReading": 62823,
+    "runningDifference": 92851,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "MNS-20-9022",
+    "lastDateOfChange": 44845,
+    "meterReading": 74636,
+    "runningDifference": 30783,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA - 3190",
+    "lastDateOfChange": 45445,
+    "meterReading": 196224,
+    "runningDifference": 10566,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAF-6779",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 193676,
+    "runningDifference": 16314,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAA - 3192",
+    "lastDateOfChange": 45445,
+    "meterReading": 187815,
+    "runningDifference": 10639,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "CAA-4430",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 85360,
+    "runningDifference": 113568,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-7220",
+    "lastDateOfChange": 44572,
+    "meterReading": 46994,
+    "runningDifference": 59469,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAG-7217",
+    "lastDateOfChange": "20/7/2022",
+    "meterReading": 30480,
+    "runningDifference": 72165,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "MNS-19-9006",
+    "lastDateOfChange": "31/01/2023",
+    "meterReading": 86591,
+    "runningDifference": 36944,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "GDA-2023"
+  },
+  {
+    "registrationNo": "CAJ-8042",
+    "lastDateOfChange": "25/05/2023",
+    "meterReading": 73522,
+    "runningDifference": 106761,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAJ-6008",
+    "lastDateOfChange": 44963,
+    "meterReading": 82739,
+    "runningDifference": 68074,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAJ-6027",
+    "lastDateOfChange": 44963,
+    "meterReading": 67007,
+    "runningDifference": 44315,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAG-7224",
+    "lastDateOfChange": "22/10/2022",
+    "meterReading": 46361,
+    "runningDifference": 89404,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": 21032
+  },
+  {
+    "registrationNo": "CAP-451",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 52782,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "BE-672",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 251232,
+    "dueStatus": "Not Due",
+    "quantity": 1,
+    "airFilter": "Land Cruiser"
+  },
+  {
+    "registrationNo": "LD-1459",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 29715,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "LD-1457",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 29495,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-806"
+  },
+  {
+    "registrationNo": "LD-2367",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 8829,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  },
+  {
+    "registrationNo": "LD-2368",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 9444,
+    "dueStatus": "Not Due",
+    "quantity": null,
+    "airFilter": "GDA-905"
+  }
+]

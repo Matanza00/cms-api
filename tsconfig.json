@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",  // Directory for compiled JavaScript files
+    "target": "es2016",  // Target ECMAScript version
+    "module": "commonjs",  // Module system
+    "forceConsistentCasingInFileNames": true,  // Enforce consistent casing in filenames
+    "strict": true,  // Enable all strict type-checking options
+    "skipLibCheck": true,  // Skip type checking of declaration files
+    "esModuleInterop": true,  // Enable compatibility for CommonJS and ES Modules
+    "baseUrl": ".",  // Base directory for resolving non-relative module names
+    "paths": {
+      "*": ["*", "dist/*"]  // Resolve modules from the 'dist' directory
+    }
+  },
+  "include": [
+    "*.ts",  // Include TypeScript files in the root directory
+    "controllers/**/*.ts",  // Include TypeScript files in the 'controllers' directory
+    "utils/**/*.ts"  // Include TypeScript files in the 'utils' directory
+  ]
+}

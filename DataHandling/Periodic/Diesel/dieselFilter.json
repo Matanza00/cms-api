@@ -1,0 +1,2998 @@
+[
+  {
+    "registrationNo": "CAH-4897",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-17-900",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 310355,
+    "runningDifference": 29590,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-913",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 179761,
+    "runningDifference": 6125,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-18-9047",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 430862,
+    "runningDifference": 12642,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9027",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9042",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 379600,
+    "runningDifference": 30888,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-913",
+    "lastDateOfChange": 45082,
+    "meterReading": 157661,
+    "runningDifference": 29584,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-916",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 244922,
+    "runningDifference": 7283,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-17-923",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 249237,
+    "runningDifference": 8594,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "CAE-5489",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 482760,
+    "runningDifference": 44419,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-3562",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9007",
+    "lastDateOfChange": 44723,
+    "meterReading": 166260,
+    "runningDifference": null,
+    "dieselFilter": 10321
+  },
+  {
+    "registrationNo": "CAJ-6014",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 81095,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "BF-9583",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 18639,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "MNS-18-963",
+    "lastDateOfChange": 45177,
+    "meterReading": 195295,
+    "runningDifference": 30521,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "CAG-7225",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 232439,
+    "runningDifference": 41739,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-7243",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 252498,
+    "runningDifference": 29724,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-923",
+    "lastDateOfChange": "22/12/2020",
+    "meterReading": 126828,
+    "runningDifference": 154958,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-18-996",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 236195,
+    "runningDifference": 7982,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-961",
+    "lastDateOfChange": "31/10/2022",
+    "meterReading": 286747,
+    "runningDifference": 55450,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9023",
+    "lastDateOfChange": 45174,
+    "meterReading": 179247,
+    "runningDifference": 38876,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-092",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CH-1329",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAP-3103",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAA-4427",
+    "lastDateOfChange": 44603,
+    "meterReading": 112209,
+    "runningDifference": 83082,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAD-5208",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 179162,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "MNS-17-920",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 405558,
+    "runningDifference": 12402,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-3564",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAA-3745",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 161536,
+    "runningDifference": 18968,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-17-901",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 194337,
+    "runningDifference": 9719,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-17-902",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 157662,
+    "runningDifference": 10951,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-17-910",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 184405,
+    "runningDifference": 15085,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-17-914",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 211445,
+    "runningDifference": 15825,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-17-918",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 249025,
+    "runningDifference": 16981,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-18-9003",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 200411,
+    "runningDifference": 13941,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-18-9009",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9037",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 227622,
+    "runningDifference": 9698,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-18-9040",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 195222,
+    "runningDifference": 9462,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-18-9050",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 222787,
+    "runningDifference": 19010,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-18-950",
+    "lastDateOfChange": "15/06/2022",
+    "meterReading": 141710,
+    "runningDifference": 55387,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-955",
+    "lastDateOfChange": "29/03/2022",
+    "meterReading": 121327,
+    "runningDifference": 41662,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-966",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 176925,
+    "runningDifference": 14179,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-19-900",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 157786,
+    "runningDifference": 14167,
+    "dieselFilter": "GDF-L010"
+  },
+  {
+    "registrationNo": "MNS-19-9003",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 159265,
+    "runningDifference": 21448,
+    "dieselFilter": "GDF-L010"
+  },
+  {
+    "registrationNo": "MNS-19-9009",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 148010,
+    "runningDifference": 11481,
+    "dieselFilter": "GDF-L010"
+  },
+  {
+    "registrationNo": "MNS-19-9049",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 200286,
+    "runningDifference": 23708,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-19-9050",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 176044,
+    "runningDifference": 18328,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-20-9010",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 137391,
+    "runningDifference": 15325,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-20-9013",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 142755,
+    "runningDifference": 14296,
+    "dieselFilter": "GDF-211"
+  },
+  {
+    "registrationNo": "MNS-20-9015",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 96312,
+    "runningDifference": 10566,
+    "dieselFilter": "GDF-211"
+  },
+  {
+    "registrationNo": "MNS-20-9020",
+    "lastDateOfChange": "30/01/2024",
+    "meterReading": 225763,
+    "runningDifference": 10017,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "CAA-4451",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 128888,
+    "runningDifference": 17927,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "CAA-4392",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 93480,
+    "runningDifference": -3162,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "CAA-4395",
+    "lastDateOfChange": "28/102023",
+    "meterReading": 93480,
+    "runningDifference": 17851,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "CAC-5071",
+    "lastDateOfChange": "18/12/2022",
+    "meterReading": 59207,
+    "runningDifference": 32215,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "MNS-18-932",
+    "lastDateOfChange": "15/01/2023",
+    "meterReading": 165460,
+    "runningDifference": 47029,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "CAD-6019",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 77638,
+    "runningDifference": 10667,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "CAH-4901",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAF-6784",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 117844,
+    "runningDifference": 15974,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "MNS-19-9017",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 159136,
+    "runningDifference": 8457,
+    "dieselFilter": "GDF-L010"
+  },
+  {
+    "registrationNo": "CAG-7236",
+    "lastDateOfChange": "29/10/2022",
+    "meterReading": 45729,
+    "runningDifference": 122021,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "CAJ-8046",
+    "lastDateOfChange": "25/10/2023",
+    "meterReading": 92597,
+    "runningDifference": 44216,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "CAJ-8055",
+    "lastDateOfChange": "15/01/2023",
+    "meterReading": 40877,
+    "runningDifference": 87231,
+    "dieselFilter": "GDF-L070"
+  },
+  {
+    "registrationNo": "CAN-1852",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAL-8450 ",
+    "lastDateOfChange": "28/10/2023",
+    "meterReading": 25490,
+    "runningDifference": 12650,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "MNS-18-9031",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-507",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-494",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 37777,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "CAP-3089",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-3101",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-3099",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "LD-1460",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 25871,
+    "dieselFilter": "GDF-211"
+  },
+  {
+    "registrationNo": "CAD-382",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4457,
+    "dieselFilter": "GDF-211"
+  },
+  {
+    "registrationNo": "LD-2370",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4385,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "CAD-984",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 3399,
+    "dieselFilter": "DGF-211"
+  },
+  {
+    "registrationNo": "CH-1337",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4685,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "CH-1452",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "CAA - 3748",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 130198,
+    "runningDifference": 70592,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-908",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 219451,
+    "runningDifference": 27048,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-921",
+    "lastDateOfChange": "19/01/2023",
+    "meterReading": 149586,
+    "runningDifference": 30237,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9001",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 173387,
+    "runningDifference": 55688,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9002",
+    "lastDateOfChange": "27/10/2022",
+    "meterReading": 146737,
+    "runningDifference": 54433,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9014",
+    "lastDateOfChange": "26/10/2022",
+    "meterReading": 132870,
+    "runningDifference": 42557,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9024",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 145293,
+    "runningDifference": 40463,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9026",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9030",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9033",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9042",
+    "lastDateOfChange": "19/01/2023",
+    "meterReading": 162492,
+    "runningDifference": 43363,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9044",
+    "lastDateOfChange": "21/08/2022",
+    "meterReading": 144918,
+    "runningDifference": 51067,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9046",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 129303,
+    "runningDifference": 45512,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9052",
+    "lastDateOfChange": "19/01/2023",
+    "meterReading": 209937,
+    "runningDifference": 36256,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-938",
+    "lastDateOfChange": "16/01/2021",
+    "meterReading": 58800,
+    "runningDifference": 57823,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-958",
+    "lastDateOfChange": "26/10/2022",
+    "meterReading": 133440,
+    "runningDifference": 42025,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9005",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9013",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 197490,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9020",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9033",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9034",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9037",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9041",
+    "lastDateOfChange": "28/10/2022",
+    "meterReading": 143617,
+    "runningDifference": 61617,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9045",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 120393,
+    "runningDifference": 53122,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9004",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 116804,
+    "runningDifference": 50790,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9008",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 158168,
+    "runningDifference": 56081,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9009",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 125915,
+    "runningDifference": 67027,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAC-3411",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAC-5069",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 97596,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAD-5226",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 90271,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAD-6067",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 81946,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAD-6001",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 101918,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAF-6788 ",
+    "lastDateOfChange": "19/01/2023",
+    "meterReading": 67320,
+    "runningDifference": 42285,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1144  ",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 86740,
+    "runningDifference": 114885,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-6806 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 109819,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-5221",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 124154,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAA-4406",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 144022,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9053",
+    "lastDateOfChange": "17/01/2023",
+    "meterReading": 275796,
+    "runningDifference": 45227,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAJ-6024",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 64105,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAK-9782",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 60258,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAK-9775",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 77241,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-9025",
+    "lastDateOfChange": 44816,
+    "meterReading": 309800,
+    "runningDifference": 30417,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-502",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-908",
+    "lastDateOfChange": "29/01/2023",
+    "meterReading": 218777,
+    "runningDifference": 43164,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "LD-1458",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 27649,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "LD-1456",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 26308,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "MNS 20-900",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "CAD-057",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 11702,
+    "dieselFilter": "QFC-126"
+  },
+  {
+    "registrationNo": "LD-2369",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4046,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "CH-1338",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 3281,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "CAG-059",
+    "lastDateOfChange": "22/10/2022",
+    "meterReading": 109813,
+    "runningDifference": 148221,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-954",
+    "lastDateOfChange": "30/01/2022",
+    "meterReading": 149304,
+    "runningDifference": 95089,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-17-907",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 283265,
+    "runningDifference": 34180,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9006",
+    "lastDateOfChange": "15/08/2023",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": 10321
+  },
+  {
+    "registrationNo": "MNS-18-9034",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-946",
+    "lastDateOfChange": 45174,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-948",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 171206,
+    "runningDifference": null,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-20-9002",
+    "lastDateOfChange": 45293,
+    "meterReading": 303313,
+    "runningDifference": 16359,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAC-3405",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAH-4895",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAG-065",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 147257,
+    "runningDifference": 65043,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-491",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 44580,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "LD-1455",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAD-487",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6938,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA-3624",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 266295,
+    "runningDifference": 16445,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-916",
+    "lastDateOfChange": "27/10/2022",
+    "meterReading": 166000,
+    "runningDifference": 27624,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9035",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-937",
+    "lastDateOfChange": "21/01/2023",
+    "meterReading": 157420,
+    "runningDifference": 20786,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-956",
+    "lastDateOfChange": "21/01/2023",
+    "meterReading": 135260,
+    "runningDifference": 28893,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-965",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 172350,
+    "runningDifference": 2508,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-19-9002",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 140839,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9004",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9016",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 145134,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9035",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-20-9007",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 165280,
+    "runningDifference": 6510,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9017",
+    "lastDateOfChange": "14/08/2023",
+    "meterReading": 207140,
+    "runningDifference": 34567,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-952",
+    "lastDateOfChange": 44986,
+    "meterReading": 135569,
+    "runningDifference": 17891,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "CAC-3419",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAA - 2833",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 207087,
+    "runningDifference": 11824,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1138",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 258400,
+    "runningDifference": 20356,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-068",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 231600,
+    "runningDifference": 11451,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-4414",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 100188,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAP-497",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 58892,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAJ-6032",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "LD-2372",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 13506,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-9041",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 290598,
+    "runningDifference": 9137,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9018",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-951",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 130150,
+    "runningDifference": 23037,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-957",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 249430,
+    "runningDifference": 14219,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9008",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-902",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 312017,
+    "runningDifference": 12566,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-921",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 160260,
+    "runningDifference": 37074,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-20-9001",
+    "lastDateOfChange": "31/01/2024",
+    "meterReading": 214412,
+    "runningDifference": 9225,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9018",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 305500,
+    "runningDifference": 15894,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-4399",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 116550,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-9023",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 238120,
+    "runningDifference": 13756,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-5210",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 92892,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAE-5458",
+    "lastDateOfChange": "29/01/2024",
+    "meterReading": 146942,
+    "runningDifference": 12012,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAE-5484",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 218351,
+    "runningDifference": 17469,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAJ-8051",
+    "lastDateOfChange": "27/01/2024",
+    "meterReading": 141110,
+    "runningDifference": 20977,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9012",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 174000,
+    "runningDifference": 31071,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "CAK-9772",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 57786,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAP-3102",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CH-1328",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "MNS-18-9027",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9045",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 247480,
+    "runningDifference": 12090,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9049",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 52558,
+    "runningDifference": 13171,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-905",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 225415,
+    "runningDifference": 7836,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-4438",
+    "lastDateOfChange": "19/12/2024",
+    "meterReading": 167052,
+    "runningDifference": 10332,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-6009",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 85556,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAF-6791",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 137798,
+    "runningDifference": 11756,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1128",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 234641,
+    "runningDifference": 18047,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-3078",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-3093",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-20-9005",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 151724,
+    "runningDifference": 12924,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-896",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6964,
+    "dieselFilter": "GDF-209"
+  },
+  {
+    "registrationNo": "MNS-17-904",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 311301,
+    "runningDifference": 9489,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-922",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 181079,
+    "runningDifference": 21391,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-18-9012",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": "23/01/2024",
+    "runningDifference": 316617,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-929",
+    "lastDateOfChange": "16/01/2023",
+    "meterReading": 148720,
+    "runningDifference": 22279,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-930",
+    "lastDateOfChange": "16/01/2023",
+    "meterReading": 126332,
+    "runningDifference": 17297,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-962",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 163079,
+    "runningDifference": 32770,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-19-9001",
+    "lastDateOfChange": "14/05/2023",
+    "meterReading": 201150,
+    "runningDifference": 31955,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9031",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9044",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 239056,
+    "runningDifference": 11611,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9057",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 241150,
+    "runningDifference": 10874,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-907",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 266918,
+    "runningDifference": 8694,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-914",
+    "lastDateOfChange": "14/05/2023",
+    "meterReading": 200075,
+    "runningDifference": 50765,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "CH - 0726",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAF-3566",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAD-6034",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 94397,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAF-6785",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 283880,
+    "runningDifference": 26120,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-6821",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 223824,
+    "runningDifference": 21214,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-2840",
+    "lastDateOfChange": "23/01/2024",
+    "meterReading": 320913,
+    "runningDifference": 10095,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAK-9765",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 84384,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAJ-6019",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 68141,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAN-1832",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAL-8456 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 156985,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAM-1943 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 85062,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CH-1336",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 4355,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-17-912",
+    "lastDateOfChange": 44621,
+    "meterReading": 137595,
+    "runningDifference": 74305,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-17-917",
+    "lastDateOfChange": 45268,
+    "meterReading": 303928,
+    "runningDifference": 25274,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-925",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 325476,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "CAC-5073",
+    "lastDateOfChange": "13/06/2022",
+    "meterReading": 102321,
+    "runningDifference": null,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAD-6061",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-949",
+    "lastDateOfChange": "29/01/2023",
+    "meterReading": 110767,
+    "runningDifference": null,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "CAM-1952",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 81201,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CH-1455",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 1550,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA-2830",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 308267,
+    "runningDifference": 16204,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-924",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 329340,
+    "runningDifference": 7065,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-18-9008",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-931",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 373714,
+    "runningDifference": 9041,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-19-9015",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 351535,
+    "runningDifference": 15722,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-19-9025",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9026",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9052",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 377737,
+    "runningDifference": 21607,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9021",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 383814,
+    "runningDifference": 16670,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-6789",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 294688,
+    "runningDifference": 20364,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAJ-8053",
+    "lastDateOfChange": "26/01/2024",
+    "meterReading": 240086,
+    "runningDifference": 25920,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-513",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAD-456",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 17245,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-17-903",
+    "lastDateOfChange": "22/01/2024",
+    "meterReading": 356823,
+    "runningDifference": 13697,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-927",
+    "lastDateOfChange": 44349,
+    "meterReading": 89979,
+    "runningDifference": 39849,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-935",
+    "lastDateOfChange": "14/04/2022",
+    "meterReading": 118197,
+    "runningDifference": 48125,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-942",
+    "lastDateOfChange": 44349,
+    "meterReading": 97352,
+    "runningDifference": 75114,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-993",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 376853,
+    "runningDifference": 10528,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9011",
+    "lastDateOfChange": "13/12/2020",
+    "meterReading": 99471,
+    "runningDifference": 224236,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9023",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9055",
+    "lastDateOfChange": "24/01/2024",
+    "meterReading": 296111,
+    "runningDifference": 13492,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-073",
+    "lastDateOfChange": "22/01/2024",
+    "meterReading": 199024,
+    "runningDifference": 17554,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9005",
+    "lastDateOfChange": "25/07/2023",
+    "meterReading": 237179,
+    "runningDifference": 33842,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9032",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAF-6811",
+    "lastDateOfChange": "25/07/2023",
+    "meterReading": 105299,
+    "runningDifference": 45756,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9028",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9048",
+    "lastDateOfChange": 45055,
+    "meterReading": 246820,
+    "runningDifference": 37278,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-939",
+    "lastDateOfChange": 45235,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-945",
+    "lastDateOfChange": 45235,
+    "meterReading": 204791,
+    "runningDifference": 24499,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-19-9018",
+    "lastDateOfChange": 45205,
+    "meterReading": 246554,
+    "runningDifference": 28838,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9036",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAE-5499",
+    "lastDateOfChange": 45235,
+    "meterReading": 130970,
+    "runningDifference": 63573,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAN-1834",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAM-1947 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 103005,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-928",
+    "lastDateOfChange": "15/01/2023",
+    "meterReading": 236780,
+    "runningDifference": 45791,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-9015",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9038",
+    "lastDateOfChange": "14/01/2023",
+    "meterReading": 187946,
+    "runningDifference": 61999,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-997",
+    "lastDateOfChange": 44603,
+    "meterReading": 203296,
+    "runningDifference": 38545,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9048",
+    "lastDateOfChange": "20/10/2022",
+    "meterReading": 162514,
+    "runningDifference": 47412,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9051",
+    "lastDateOfChange": "14/01/2023",
+    "meterReading": 189410,
+    "runningDifference": null,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-4393",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 90500,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA-3206",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 172758,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAG-7229",
+    "lastDateOfChange": "20/10/2022",
+    "meterReading": 80722,
+    "runningDifference": 142345,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-919",
+    "lastDateOfChange": "21/01/2024",
+    "meterReading": 221526,
+    "runningDifference": 18827,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-912",
+    "lastDateOfChange": 45047,
+    "meterReading": 116818,
+    "runningDifference": 29080,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAJ-8044",
+    "lastDateOfChange": "29/10/2022",
+    "meterReading": 35396,
+    "runningDifference": 91305,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9021",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9039",
+    "lastDateOfChange": 45265,
+    "meterReading": 235878,
+    "runningDifference": 57385,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9043",
+    "lastDateOfChange": 45265,
+    "meterReading": 252427,
+    "runningDifference": 56812,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-3082",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9011",
+    "lastDateOfChange": 44843,
+    "meterReading": 357240,
+    "runningDifference": 95803,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9036",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9007",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9039",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9043",
+    "lastDateOfChange": "22/10/2022",
+    "meterReading": 284018,
+    "runningDifference": 38223,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-4448",
+    "lastDateOfChange": "26/01/2023",
+    "meterReading": 187083,
+    "runningDifference": 79704,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1131",
+    "lastDateOfChange": "22/10/2022",
+    "meterReading": 113260,
+    "runningDifference": 160434,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-069",
+    "lastDateOfChange": "18/07/2023",
+    "meterReading": 197630,
+    "runningDifference": 86238,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1133",
+    "lastDateOfChange": "22/07/2023",
+    "meterReading": 178878,
+    "runningDifference": 76449,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-6047",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 108550,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA - 2781",
+    "lastDateOfChange": "17/11/2022",
+    "meterReading": 99382,
+    "runningDifference": 69431,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAJ-8050",
+    "lastDateOfChange": "25/10/2022",
+    "meterReading": 33501,
+    "runningDifference": 149355,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-2798",
+    "lastDateOfChange": 45177,
+    "meterReading": 242328,
+    "runningDifference": 47170,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9020",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-901",
+    "lastDateOfChange": 45177,
+    "meterReading": 318682,
+    "runningDifference": 53493,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-959",
+    "lastDateOfChange": 45177,
+    "meterReading": 307432,
+    "runningDifference": 31279,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "BD-8538",
+    "lastDateOfChange": "30/05/2022",
+    "meterReading": 535879,
+    "runningDifference": null,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "CAP-493",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 49755,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-19-909",
+    "lastDateOfChange": "18/07/2023",
+    "meterReading": 132373,
+    "runningDifference": 27313,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9017",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-960",
+    "lastDateOfChange": 45445,
+    "meterReading": 322056,
+    "runningDifference": 11631,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9058",
+    "lastDateOfChange": 45353,
+    "meterReading": 242320,
+    "runningDifference": 11294,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-947",
+    "lastDateOfChange": 45143,
+    "meterReading": 155235,
+    "runningDifference": 30574,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-19-9053",
+    "lastDateOfChange": 45353,
+    "meterReading": 253055,
+    "runningDifference": 11397,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-909",
+    "lastDateOfChange": 45384,
+    "meterReading": 262221,
+    "runningDifference": 12126,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CH-1454",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 823,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA - 2806",
+    "lastDateOfChange": "14/11/2022",
+    "meterReading": 179175,
+    "runningDifference": 100670,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-943",
+    "lastDateOfChange": "26/12/2021",
+    "meterReading": 117350,
+    "runningDifference": 143014,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "CAC-3428",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAK-9763",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 118226,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAD-5994",
+    "lastDateOfChange": 45266,
+    "meterReading": 111069,
+    "runningDifference": 42550,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAD-6016",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 171907,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-19-9019",
+    "lastDateOfChange": "21/05/2023",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-903",
+    "lastDateOfChange": 45143,
+    "meterReading": 323375,
+    "runningDifference": 84478,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9040",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-924",
+    "lastDateOfChange": "21/05/2023",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "CAF-3559 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAD-5237",
+    "lastDateOfChange": 44600,
+    "meterReading": 78569,
+    "runningDifference": 113765,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAD-6063",
+    "lastDateOfChange": 44693,
+    "meterReading": 102013,
+    "runningDifference": 75439,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAJ-5586",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAM-1913 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 116706,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-17-915",
+    "lastDateOfChange": 45353,
+    "meterReading": 352634,
+    "runningDifference": 10462,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-940",
+    "lastDateOfChange": 45353,
+    "meterReading": 176954,
+    "runningDifference": 3033,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-19-9028",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9046",
+    "lastDateOfChange": 45353,
+    "meterReading": 274586,
+    "runningDifference": 14430,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-922",
+    "lastDateOfChange": 45353,
+    "meterReading": 375655,
+    "runningDifference": 13790,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "CAD-5213",
+    "lastDateOfChange": 45353,
+    "meterReading": 186414,
+    "runningDifference": 13780,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAA-2802",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 215289,
+    "runningDifference": 93111,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-941",
+    "lastDateOfChange": "30/05/2023",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-19-906",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 322641,
+    "runningDifference": 76257,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-20-9006",
+    "lastDateOfChange": "19/05/2023",
+    "meterReading": 289642,
+    "runningDifference": 102693,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-5216",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 190800,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAN-1851",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-498",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 73966,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-9004",
+    "lastDateOfChange": "25/01/2024",
+    "meterReading": 425292,
+    "runningDifference": 18772,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-6787",
+    "lastDateOfChange": "28/01/2024",
+    "meterReading": 247737,
+    "runningDifference": 17245,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-506",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-933",
+    "lastDateOfChange": 44629,
+    "meterReading": 202371,
+    "runningDifference": 78393,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-936",
+    "lastDateOfChange": "15/01/2023",
+    "meterReading": 279595,
+    "runningDifference": 63754,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-18-9022",
+    "lastDateOfChange": 45207,
+    "meterReading": 282474,
+    "runningDifference": 41882,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAL-8463 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 82680,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-19-910",
+    "lastDateOfChange": "20/06/2023",
+    "meterReading": 73427,
+    "runningDifference": 14281,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAC-5072",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAJ-6021",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 86828,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "MNS-18-953",
+    "lastDateOfChange": "21/01/2023",
+    "meterReading": 154901,
+    "runningDifference": 41138,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "MNS-19-904",
+    "lastDateOfChange": 45268,
+    "meterReading": 281965,
+    "runningDifference": 45410,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-3079",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAD-270",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 6769,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "MNS-18-9010",
+    "lastDateOfChange": 45115,
+    "meterReading": 183628,
+    "runningDifference": 25298,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9021",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-20-9016",
+    "lastDateOfChange": 45268,
+    "meterReading": 190524,
+    "runningDifference": 46721,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA-4423",
+    "lastDateOfChange": 45261,
+    "meterReading": 77049,
+    "runningDifference": 21060,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAJ-6001",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 63425,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAC-5070",
+    "lastDateOfChange": "19/03/2022",
+    "meterReading": 33100,
+    "runningDifference": 38329,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-19-9010",
+    "lastDateOfChange": "25/02/2023",
+    "meterReading": 234100,
+    "runningDifference": 64325,
+    "dieselFilter": "Isuzu D Max"
+  },
+  {
+    "registrationNo": "MNS-19-9022",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9030",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAD-6023",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 168925,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAJ-6042",
+    "lastDateOfChange": 45628,
+    "meterReading": 85100,
+    "runningDifference": 6563,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAL-8459 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 94605,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-19-9024",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9032",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-911",
+    "lastDateOfChange": 45082,
+    "meterReading": 309020,
+    "runningDifference": 72300,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-6812",
+    "lastDateOfChange": 45021,
+    "meterReading": 135393,
+    "runningDifference": 76007,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAC-3416",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAD-656",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 13596,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CH-1456",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 0,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-19-9038",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9019",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-19-9047",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 314935,
+    "runningDifference": 16585,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-964",
+    "lastDateOfChange": 45206,
+    "meterReading": 122160,
+    "runningDifference": 39065,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "CAE-5481",
+    "lastDateOfChange": "20/01/2024",
+    "meterReading": 200404,
+    "runningDifference": 16521,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9054",
+    "lastDateOfChange": 45115,
+    "meterReading": 203520,
+    "runningDifference": 34930,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-464",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 13060,
+    "dieselFilter": "GDF-211"
+  },
+  {
+    "registrationNo": "MNS-20-9003",
+    "lastDateOfChange": 45505,
+    "meterReading": 169671,
+    "runningDifference": 8796,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "BC-9133",
+    "lastDateOfChange": "20/02/2024",
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": "Land Cuiser"
+  },
+  {
+    "registrationNo": "MNS-18-9051",
+    "lastDateOfChange": 45054,
+    "meterReading": 279250,
+    "runningDifference": 45986,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-906",
+    "lastDateOfChange": 45146,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-17-926",
+    "lastDateOfChange": 44718,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "MNS-20-9014",
+    "lastDateOfChange": 44289,
+    "meterReading": 34460,
+    "runningDifference": 120957,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAN-1837",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAP-3085",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-9013",
+    "lastDateOfChange": 44928,
+    "meterReading": 209665,
+    "runningDifference": 62098,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9016",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAJ-6046",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "MNS-20-9019",
+    "lastDateOfChange": 45115,
+    "meterReading": 242750,
+    "runningDifference": 55704,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-6012",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 162955,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAF-6804 ",
+    "lastDateOfChange": 44991,
+    "meterReading": 100270,
+    "runningDifference": 59597,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAF-6819 ",
+    "lastDateOfChange": 44991,
+    "meterReading": 121294,
+    "runningDifference": 46586,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-7218 ",
+    "lastDateOfChange": 44991,
+    "meterReading": 77860,
+    "runningDifference": 38991,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-7235",
+    "lastDateOfChange": 44991,
+    "meterReading": 87946,
+    "runningDifference": 57088,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAL-8454",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 80572,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAG-7239 ",
+    "lastDateOfChange": 44991,
+    "meterReading": 94310,
+    "runningDifference": 58606,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAM-1951 ",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 79075,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-20-9012",
+    "lastDateOfChange": "14/06/2023",
+    "meterReading": 215470,
+    "runningDifference": 44954,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAD-5205",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 157063,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "MNS-20-9011",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 225204,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "CAD-6006",
+    "lastDateOfChange": "21/08/202",
+    "meterReading": 113910,
+    "runningDifference": 89221,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-18-934",
+    "lastDateOfChange": 45384,
+    "meterReading": 180217,
+    "runningDifference": 8211,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "CAP-509",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-18-944",
+    "lastDateOfChange": 44598,
+    "meterReading": 114712,
+    "runningDifference": 26080,
+    "dieselFilter": "GDF-646C"
+  },
+  {
+    "registrationNo": "CAA - 2826",
+    "lastDateOfChange": 45115,
+    "meterReading": 0,
+    "runningDifference": null,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1125",
+    "lastDateOfChange": 45115,
+    "meterReading": 96500,
+    "runningDifference": 29650,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA - 2825",
+    "lastDateOfChange": "15/08/2023",
+    "meterReading": 133500,
+    "runningDifference": 24547,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-1140",
+    "lastDateOfChange": 45115,
+    "meterReading": 103702,
+    "runningDifference": 39586,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA - 2810",
+    "lastDateOfChange": 45115,
+    "meterReading": 165281,
+    "runningDifference": 37863,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9029",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAA-3751",
+    "lastDateOfChange": 45177,
+    "meterReading": 253380,
+    "runningDifference": 44900,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-18-9029",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "MNS-17-925",
+    "lastDateOfChange": "17/06/2022",
+    "meterReading": 105561,
+    "runningDifference": 66443,
+    "dieselFilter": "GDF-471"
+  },
+  {
+    "registrationNo": "CAA - 3621",
+    "lastDateOfChange": "13/05/2023",
+    "meterReading": 163092,
+    "runningDifference": 56202,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAD-6029",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 153720,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "BH-2819",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 40437,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "CAA - 3232",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 162588,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA - 3194",
+    "lastDateOfChange": "18/03/2023",
+    "meterReading": 107438,
+    "runningDifference": 48236,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "MNS-20-9022",
+    "lastDateOfChange": "21/05/2022",
+    "meterReading": 64696,
+    "runningDifference": 40723,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA - 3190",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 206790,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAF-6779",
+    "lastDateOfChange": "16/08/2023",
+    "meterReading": 148908,
+    "runningDifference": 61082,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAA - 3192",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 198454,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "CAA-4430",
+    "lastDateOfChange": "16/08/2023",
+    "meterReading": 140231,
+    "runningDifference": 58697,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-7220",
+    "lastDateOfChange": 45146,
+    "meterReading": 76292,
+    "runningDifference": 30171,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAG-7217",
+    "lastDateOfChange": 45146,
+    "meterReading": 75089,
+    "runningDifference": 27556,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "MNS-19-9006",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": null,
+    "dieselFilter": "N/A"
+  },
+  {
+    "registrationNo": "CAJ-8042",
+    "lastDateOfChange": 45177,
+    "meterReading": 89726,
+    "runningDifference": 90557,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAJ-6008",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 150813,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAJ-6027",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 111322,
+    "dieselFilter": "Forland"
+  },
+  {
+    "registrationNo": "CAG-7224",
+    "lastDateOfChange": "14/01/2023",
+    "meterReading": 62410,
+    "runningDifference": 73355,
+    "dieselFilter": 30195
+  },
+  {
+    "registrationNo": "CAP-451",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 52782,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "BE-672",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 251232,
+    "dieselFilter": null
+  },
+  {
+    "registrationNo": "LD-1459",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 29715,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "LD-1457",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 29495,
+    "dieselFilter": "QFC-5126"
+  },
+  {
+    "registrationNo": "LD-2367",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 8829,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  },
+  {
+    "registrationNo": "LD-2368",
+    "lastDateOfChange": null,
+    "meterReading": null,
+    "runningDifference": 9444,
+    "dieselFilter": "QFC-5126\r\nJAC-1204"
+  }
+]
