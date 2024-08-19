@@ -36,6 +36,7 @@ model cms_Users {
   username            String?
   email               String?
   password            String?
+  phone               String?
   passwordToken       String?          @unique()
   isActive            Boolean          @default(true) // Ensure this field exists
   isCompanyAdmin      Boolean          @default(false) // Ensure this field exists

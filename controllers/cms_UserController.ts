@@ -64,7 +64,7 @@ class CMS_UserController {
         });
 
         console.log("Preparing and sending the password setup email...");
-        const passwordLink = `https://yourdomain.com/set-password/${token}`;
+        const passwordLink = `http://localhost:5173/set-password/${token}`;
         const message = `Use the following link to set up your password, 
           <br/><br/>
           <strong><a href="${passwordLink}">${passwordLink}</a></strong><br/>

@@ -44,13 +44,13 @@ const PAYMENT_TEMPLATE = (text: string) => {
             <div class="container">
               <div class="email">
                 <div class="email-header">
-                  <h1>FMS</h1>
+                  <h1>CMS</h1>
                 </div>
                 <div class="email-body">
                   <p>${text}</p>
                 </div>
                 <div class="email-footer">
-                  <p>SOS Global - FMS ©copyright 24</p>
+                  <p>NXC - CMS ©copyright 24</p>
                 </div>
               </div>
             </div>

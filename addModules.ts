@@ -1,4 +1,4 @@
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
@@ -19,7 +19,7 @@ async function addModules() {
       });
 
       if (!existingModule) {
-        await prisma.module.create({
+        await prisma.module.createMany({
           data: module,
         });
         console.log(`Module ${module.name} added successfully.`);
@@ -28,7 +28,7 @@ async function addModules() {
       }
     }
   } catch (error) {
-    console.error('Error adding modules:', error);
+    console.error("Error adding modules:", error);
   } finally {
     await prisma.$disconnect();
   }

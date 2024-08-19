@@ -87,62 +87,66 @@ class ManagerController {
   static getAll = AsyncHandler(
     async (req: Request, res: Response, next: NextFunction) => {
       const { companyId } = req.params;
-      const {
-        page,
-        limit,
-        sortBy,
-        sortType,
-        search,
-        keys,
-        ...dynamicFilters
-      } = req.query;
+      const { page, limit, sortBy, sortType, search, keys, ...dynamicFilters } =
+        req.query;
 
-      const pageNumber = parseInt(page as string) || 1;
-      const pageSize = parseInt(limit as string) || 20;
-      const sortingField = sortBy as keyof typeof prisma.manager;
+      // Convert query parameters to appropriate types
+      const pageNumber = parseInt(page as string, 10) || 1;
+      const pageSize = parseInt(limit as string, 10) || 100;
+      const sortingField = (sortBy as keyof typeof prisma.manager) || "name";
       const sortingOrder = (sortType as "asc" | "desc") || "desc";
 
       const keysArray = keys ? (keys as string).split(",") : [];
 
+      // Build the filter object based on provided parameters
       const filter: any = {
-        companyId: parseInt(companyId) as never,
-        deleted_at: null as never,
+        companyId: parseInt(companyId, 10),
+        deleted_at: null,
       };
 
+      // Apply dynamic filters
       for (const [key, value] of Object.entries(dynamicFilters)) {
-        if (typeof value === "string") {
+        if (typeof value === "string" || typeof value === "number") {
           filter[key] = value;
         }
       }
 
+      // Add search condition if search query is provided
       if (search) {
         filter.OR = [
-          { employeeId: { contains: search as string } },
           { name: { contains: search as string } },
+          { employeeId: { contains: search as string } },
           // Add more fields as needed for searching
         ];
       }
 
-      const totalResults = await prisma.manager.count({
-        where: filter,
-      });
+      try {
+        // Count the total number of records matching the filter
+        const totalResults = await prisma.manager.count({
+          where: filter,
+        });
 
-      const doc = await queryResources(prisma.manager, {
-        filter,
-        keys: keysArray,
-        options: {
-          page: pageNumber,
-          limit: pageSize,
-          sortBy: sortingField as string,
-          sortType: sortingOrder,
-        },
-      });
+        // Fetch the paginated results
+        const doc = await prisma.manager.findMany({
+          where: filter,
+          skip: (pageNumber - 1) * pageSize,
+          take: pageSize,
+          orderBy: {
+            [sortingField]: sortingOrder,
+          },
+          select: keysArray.length
+            ? Object.fromEntries(keysArray.map((key) => [key, true]))
+            : undefined,
+        });
 
-      res.status(200).json({
-        status: "success",
-        results: totalResults,
-        data: doc,
-      });
+        res.status(200).json({
+          status: "success",
+          results: totalResults,
+          data: doc,
+        });
+      } catch (error) {
+        next(error);
+      }
     }
   );
 

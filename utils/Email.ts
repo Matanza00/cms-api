@@ -83,7 +83,7 @@ export default class Email {
   }
 
   public async sendPasswordSetLink(): Promise<void> {
-    this.subject = "FMS Password Generator Link";
+    this.subject = "CMS Password Generator Link";
     await this.send();
   }
 
