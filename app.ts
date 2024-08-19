@@ -65,7 +65,7 @@ app.use("/api/v1", routes);
 
 // Dummy welcome route
 app.get("/", (req: Request, res: Response) => {
-  res.send("Welcome to FMS  Typescript App!");
+  res.send("Welcome to CMS  Typescript App!");
 });
 
 // Request not found middleware

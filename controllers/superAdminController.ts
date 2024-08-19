@@ -379,7 +379,7 @@ class SuperAdminController {
 
 async function findAllTablesAndFields() {
   try {
-    const schemaName = "fms"; // Adjust the schema name as needed
+    const schemaName = "cms"; // Adjust the schema name as needed
 
     // Fetch all table names within the specified schema
     const tables: any = await global.__db.$queryRaw`

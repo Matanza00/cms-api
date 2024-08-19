@@ -88,7 +88,7 @@ export default class Email {
   }
 
   public async sendCredentials(): Promise<void> {
-    this.subject = "FMS Login Credentials";
+    this.subject = "CMS Login Credentials";
     await this.send();
   }
 

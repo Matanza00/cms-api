@@ -8,7 +8,6 @@ async function addModules() {
     { name: "Managers", tableName: "managers" },
     { name: "Doctors", tableName: "doctors" },
     { name: "Typists", tableName: "typists" },
-    { name: "Settings", tableName: "settings" },
     // Add other necessary modules here
   ];
 
@@ -19,7 +18,7 @@ async function addModules() {
       });
 
       if (!existingModule) {
-        await prisma.module.createMany({
+        await prisma.module.create({
           data: module,
         });
         console.log(`Module ${module.name} added successfully.`);
