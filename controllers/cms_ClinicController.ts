@@ -9,8 +9,35 @@ const prisma = new PrismaClient();
 class ClinicController {
   static createOne = AsyncHandler(
     async (req: Request, res: Response, next: NextFunction) => {
+      const {
+        companyId,
+        address,
+        city,
+        state,
+        zipCode,
+        country,
+        phone,
+        assignedEmployee,
+        name,
+      } = req.body;
+
+      // Example validation (add more as needed)
+      if (!companyId || !address || !city || !name) {
+        return next(new ErrorHandler("Missing required fields", 400));
+      }
+
       const doc = await prisma.clinic.create({
-        data: { ...req.body },
+        data: {
+          companyId,
+          address,
+          city,
+          state,
+          zipCode,
+          country,
+          phone,
+          assignedEmployee,
+          name,
+        },
       });
 
       if (!doc) {
@@ -96,9 +123,33 @@ class ClinicController {
   static updateOne = AsyncHandler(
     async (req: Request, res: Response, next: NextFunction) => {
       const { id } = req.params;
+      const {
+        companyId,
+        address,
+        city,
+        state,
+        zipCode,
+        country,
+        phone,
+        license,
+        assignedEmployee,
+        name,
+      } = req.body;
+
       const doc = await prisma.clinic.update({
         where: { id: parseInt(id) },
-        data: { ...req.body },
+        data: {
+          companyId,
+          address,
+          city,
+          state,
+          zipCode,
+          country,
+          phone,
+          license,
+          assignedEmployee,
+          name,
+        },
       });
 
       if (!doc) {

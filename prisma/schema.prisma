@@ -128,13 +128,12 @@ model ManagerAssignment {
 }
 
 model Clinic {
-  id                 Int                 @id @default(autoincrement())
-  clinicId           Int                 @unique()
+  id                 Int                 @id @unique() @default(autoincrement())
   companyId          Int
   address            String?
   city               String?
   state              String?
-  zipCode            String? // Changed to String to match the form input type
+  zipCode            String?
   country            String?
   phone              String?
   cell               String?
@@ -147,9 +146,9 @@ model Clinic {
   contactAddress     String?
   contactEmail       String?
   contactPager       String?
-  license            String? // Added for License
-  assignedEmployee   String? // Added for assigned employee
-  name               String? // Added for clinic name
+  license            String?
+  assignedEmployee   Int?
+  name               String?
   company            Company             @relation(fields: [companyId], references: [id])
   created_at         DateTime            @default(now())
   updated_at         DateTime            @updatedAt

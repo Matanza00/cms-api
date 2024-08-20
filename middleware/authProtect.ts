@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from "express";
-import { PrismaClient, User, Role } from "@prisma/client";
+import { PrismaClient, cms_Users, Role } from "@prisma/client";
 import jwt from "jsonwebtoken";
 import catchAsync from "../utils/AsyncHandler";
 import ErrorHandler from "../utils/ErrorHandler";
@@ -11,7 +11,7 @@ interface DecodedToken extends jwt.JwtPayload {
 }
 
 interface AuthenticatedRequest extends Request {
-  user?: User & { role: Role };
+  user?: cms_Users & { role: Role };
 }
 
 export const authProtect = (requiredRole?: string) =>
@@ -36,7 +36,7 @@ export const authProtect = (requiredRole?: string) =>
         return next(new ErrorHandler("Invalid Token or has expired..", 401));
       }
 
-      const user = await prisma.user.findUnique({
+      const user = await prisma.cms_Users.findUnique({
         where: { id: parseInt(decoded.id) },
         include: { Role: true },
       });
